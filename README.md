@@ -2,18 +2,18 @@
 
 ## Table des matières
 
-### [[[EPIC] Méthodes de recherche sur l'internet]]
+### [[Méthodes de recherche sur l'internet]]
 
-### [[[EPIC]Langage HTML]]
+### [[Langage HTML]]
 
-### [[[EPIC]Obsidian]]
+### [[Obsidian]]
 
-### [[[EPIC]Linux]]
+### [[Linux]]
 
-### [[[EPIC]GIT]]
+### [[GIT]]
 
-### [[[EPIC]Espace de travail]]
+### [[Espace de travail]]
 
-### [[[EPIC]Markdown]]
+### [[Markdown]]
 
-### [[[EPIC]VS Code]]
+### [[VS Code]]
