@@ -7,21 +7,18 @@ A plugin in #Obsidian is a piece of software that extends or enhances the core f
 ## Two types of Obsidian Plugins
 
 There are **two main categories** of plugins in Obsidian :
-
 ## Core Plugins
 
 Core plugins are **officially developed and maintained by the #Obsidian team**.
 
 ### Key characteristics:
-
-- Pre-installed with Obsidian
-- Deeply integrated into the app
-- Stable and well-tested
+- Pre-installed with Obsidian  
+- Deeply integrated into the app  
+- Stable and well-tested  
 
 Some plugins are **enabled by default**, while others can be toggled on/off in **Settings → Core Plugins**.
 
 ### Examples:
-
 - **Daily Notes**
 - **Graph View**
 - **Templates**
@@ -34,10 +31,9 @@ Some plugins are **enabled by default**, while others can be toggled on/off in *
 Community plugins are created by **third-party developers** from the Obsidian community.
 
 ### Key characteristics:
-
-- Huge variety of features
-- Innovation and experimentation
-- Require disabling **Safe Mode** before installation
+- Huge variety of features  
+- Innovation and experimentation  
+- Require disabling **Safe Mode** before installation  
 
 > ⚠️ Community plugins are powerful but not officially maintained by Obsidian. Always check reviews and update frequency.
 
@@ -56,7 +52,7 @@ Community plugins are created by **third-party developers** from the Obsidian co
 | **Tag Wrangler**   | Rename, merge and bulk-edit tags                                          |
 | **AI Plugins**     | Summarization, auto-tagging, note chat and text generation                |
 
-**Explore all community plugins:** 👉 https://obsidian.md/plugins
+**Explore all community plugins:**  👉 https://obsidian.md/plugins
 
 ---
 
@@ -72,3 +68,4 @@ Community plugins are created by **third-party developers** from the Obsidian co
 ---
 
 > 💡 Tip: Keep your plugins minimal and purposeful — too many plugins can slow down your vault.
+
