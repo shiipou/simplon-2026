@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plugins in Obsidian.md",
+                "file": "Plugins.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plugins in Obsidian"
+              "title": "Plugins"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Plu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plugins in Obsidian.md",
+                "file": "Plugins.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Plugins in Obsidian"
+              "title": "Backlinks for Plugins"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plugins in Obsidian.md",
+                "file": "Plugins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Plugins in Obsidian"
+              "title": "Outgoing links from Plugins"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plugins in Obsidian.md",
+                "file": "Plugins.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Plugins in Obsidian"
+              "title": "Outline of Plugins"
             }
           },
           {
@@ -198,9 +198,10 @@
   },
   "active": "a3d3f4a78aa32d8c",
   "lastOpenFiles": [
+    "Plugins in Obsidian.md",
+    "Plugins.md",
     "Capture d'écran 2026-01-29 160551.png",
     "Capture d'écran 2026-01-29 160639.png",
-    "Plugins in Obsidian.md",
     "vault-test/Welcome.md",
     "vault-test",
     "Untitled"
