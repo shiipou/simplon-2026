@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "5324373015726ba8",
+    "id": "5420e87b3bd2f0c5",
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "ae7b38a84ff77a06",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "9910fc67ab82e205",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Operator google Dork.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Operator google Dork"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9f3dab98dda58150",
+    "id": "7d0241c3abee17e8",
     "type": "split",
     "children": [
       {
-        "id": "06a1b83798489a1a",
+        "id": "a93d47983be441ad",
         "type": "tabs",
         "children": [
           {
-            "id": "a640c26b9115b5d1",
+            "id": "fcd4695e6f9f2ee8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,11 +44,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
-            "id": "582e14fb596f027b",
+            "id": "2d30a97594e98ec7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,39 +61,40 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Rechercher"
             }
           },
           {
-            "id": "3995b40150c2b372",
+            "id": "fafa3db95802ef0e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Signets"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "2c734dc4b3354dc0",
+    "id": "785aec2b458350ae",
     "type": "split",
     "children": [
       {
-        "id": "6be1168f495eb517",
+        "id": "eb915f39e50e3f90",
         "type": "tabs",
         "children": [
           {
-            "id": "714aa7654f0741c9",
+            "id": "19d5ccc616c9a159",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Operator google Dork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Rétrolien pour Operator google Dork"
             }
           },
           {
-            "id": "d0207b1f94a5b11c",
+            "id": "2416572f8c58157e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Operator google Dork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Liens sortants de Operator google Dork"
             }
           },
           {
-            "id": "5a0599c8fe63ae04",
+            "id": "da2a2e0c97b5f77b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,11 +133,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Mots-clés"
             }
           },
           {
-            "id": "f8c213a254f48aa2",
+            "id": "7b903799128174ff",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -145,35 +147,26 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Toutes les propriétés"
             }
           },
           {
-            "id": "e9065349aa3910bd",
+            "id": "713824d2377a2f1a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Operator google Dork.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Plan de Operator google Dork"
             }
           },
           {
-            "id": "2a3491f210ef54e4",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
-            }
-          },
-          {
-            "id": "6c8f727ce15a6d98",
+            "id": "eb47abebf54a2b91",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -183,30 +176,27 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "homepage:Open homepage": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "9910fc67ab82e205",
   "lastOpenFiles": [
-    "README.md"
+    "Operator google Dork.md",
+    "Operateur google dork.md"
   ]
 }
