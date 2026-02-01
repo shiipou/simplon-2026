@@ -1,5 +1,5 @@
 
-### Creation of your project
+## Creation of your project
 
 Above all, you have to clone your project in your computer (local workspace).
 Open a terminal ( gitbash ), go to the directory in wich one you want clone the project. Then clone the project. rends toi dans le repertoire dans lequel ton projet sera cloner. Puis clone ton projet (repository):
