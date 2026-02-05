@@ -1,0 +1,172 @@
+# Commandes Git
+
+---
+
+## Configuration et aide
+
+```
+# Définir le nom d’utilisateur
+	$ git config user.name "Votre nom"
+	$ git config --global user.name "Votre nom"
+
+# Définir l’adresse e-mail
+	$ git config --global user.email "email@example.com"
+
+# Afficher toutes les configurations actives
+	$ git config --list
+
+# Ajouter un alias
+	$ git config --global alias.co checkout
+
+# Voir toutes les options possibles
+	$ man git-config
+
+# Obtenir de l’aide sur une commande
+	$ git help <commande>
+	$ git <commande> --help
+```
+
+
+---
+
+## Pour commencer
+
+```
+# Créer un nouveau dépôt local
+	$ git init
+
+# Cloner un dépôt existant
+	$ git clone <url>
+
+# Ajouter un dépôt distant
+	$ git remote add <nom> <url>
+```
+
+
+---
+## Observer votre dépôt
+
+```
+# Lister les fichiers nouveaux ou modifiés non commit
+	$ git status
+
+# Voir les modifications non indexées
+	$ git diff
+
+# Voir les différences entre deux commits
+	$ git diff <commit1> <commit2>
+
+# Afficher l’historique complet
+	$ git log
+
+# Historique d’un fichier/dossier avec diffs
+	$ git log -p <fichier/dossier>
+
+# Voir les changements d’un commit et/ou fichier
+	$ git show <commit> : <fichier>
+```
+
+
+---
+## Faire un changement
+
+```
+# Ajouter un fichier au staging
+	$ git add <fichier>
+
+# Ajouter tous les fichiers
+	$ git add -A
+
+# Commit avec message
+	$ git commit -m "Message"
+
+# Ajouter et commit en une commande
+	$ git commit -am "Message"
+
+# Modifier le dernier commit
+	$ git commit --amend
+
+# Retirer un fichier du staging
+	$ git reset <fichier>
+
+# Revenir au dernier commit
+	$ git reset --hard
+```
+
+
+---
+## Travailler avec les branches
+
+
+```
+# Lister les branches locales
+	$ git branch
+
+# Lister toutes les branches (locales + distantes)
+	$ git branch -av
+
+# Créer une nouvelle branche
+	$ git branch new_branch
+
+# Changer de branche
+	$ git checkout my_branch
+
+# Créer et changer de branche
+	$ git checkout -b new_branch
+
+# Supprimer une branche
+	$ git branch -d my_branch
+
+# Fusionner branch_b dans branch_a
+	$ git checkout branch_a
+	$ git merge branch_b
+```
+
+
+---
+## Synchroniser
+
+```
+# Récupérer et fusionner les changements distants
+	$ git pull
+
+# Récupérer sans fusionner
+	$ git fetch
+```
+
+
+---
+
+## Pousser vos changements
+
+```
+# Pousser une branche pour la première fois
+	$ git push -u origin <nom>
+
+# Pousser la branche main
+	$ git push origin main
+
+# Pousser la branche courante
+	$ git push
+```
+
+
+---
+## Git stash
+
+```
+# Sauvegarder les changements et nettoyer le répertoire
+	$ git stash
+
+# Récupérer et supprimer le stash
+	$ git stash pop
+
+# Lister les stashs
+	$ git stash list
+
+# Supprimer un stash spécifique
+	$ git stash drop
+
+# Supprimer tous les stashs
+	$ git stash clear
+```
