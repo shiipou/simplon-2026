@@ -64,7 +64,7 @@ Les plugins communautaires sont créés par des **développeurs tiers** issus de
 
 1. Ouvrez **Paramètres**.
 2. Accédez à **Plugins communautaires**.
-3. Si le **Mode sans échec** (**Restricted Mode**) est activé, désactivez-le
+3. Si le **Mode sans échec** (\*\*Restricted) est activé, désactivez-le
 4. Cliquez sur **Parcourir** ou recherchez un plugin
 5. Cliquez sur **Installer**, puis sur **Activer**
 6. Redémarrez #Obsidian si nécessaire
