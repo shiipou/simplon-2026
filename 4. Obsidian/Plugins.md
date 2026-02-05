@@ -1,24 +1,27 @@
-# What is an Obsidian Plugin?
+# Qu'est-ce qu'un plugin Obsidian ?
 
-A plugin in #Obsidian is a piece of software that extends or enhances the core functionality of the #Obsidian note-taking app. Plugins allow users to customize their experience by adding new features, improving workflows or integrating external tools.
+Un plugin dans Obsidian est un logiciel qui étend ou améliore les fonctionnalités de base de l'application de prise de notes Obsidian. Les plugins permettent aux utilisateurs de personnaliser leur expérience en ajoutant de nouvelles fonctionnalités, en améliorant les flux de travail ou en intégrant des outils externes.
 
 ---
 
-## Two types of Obsidian Plugins
+## Deux types de plugins Obsidian
 
-There are **two main categories** of plugins in Obsidian :
-## Core Plugins
+Il existe **deux grandes catégories** de plugins dans Obsidian :
 
-Core plugins are **officially developed and maintained by the #Obsidian team**.
+## Plugins principaux
 
-### Key characteristics:
-- Pre-installed with Obsidian  
-- Deeply integrated into the app  
-- Stable and well-tested  
+Les plugins principaux sont **développés et maintenus officiellement par l'équipe #Obsidian**.
 
-Some plugins are **enabled by default**, while others can be toggled on/off in **Settings → Core Plugins**.
+### Caractéristiques principales :
 
-### Examples:
+- Préinstallés avec Obsidian
+- Profondément intégrés à l'application
+- Stables et bien testés
+
+Certains plugins sont **activés par défaut**, tandis que d'autres peuvent être activés/désactivés dans **Paramètres → Plugins principaux**.
+
+### Exemples :
+
 - **Daily Notes**
 - **Graph View**
 - **Templates**
@@ -26,46 +29,46 @@ Some plugins are **enabled by default**, while others can be toggled on/off in *
 
 ---
 
-## Community Plugins
+## Plugins communautaires
 
-Community plugins are created by **third-party developers** from the Obsidian community.
+Les plugins communautaires sont créés par des **développeurs tiers** issus de la communauté Obsidian.
 
-### Key characteristics:
-- Huge variety of features  
-- Innovation and experimentation  
-- Require disabling **Safe Mode** before installation  
+### Caractéristiques principales :
 
-> ⚠️ Community plugins are powerful but not officially maintained by Obsidian. Always check reviews and update frequency.
+- Grande variété de fonctionnalités
+- Innovation et expérimentation
+- Nécessite la désactivation du **mode sans échec** avant l'installation
 
----
-
-### Must-Have Community Plugins
-
-| Plugin             | Description                                                               |
-| ------------------ | ------------------------------------------------------------------------- |
-| **Dataview**       | Query and visualize notes dynamically (tasks, lists, stats, orphan files) |
-| **Templater**      | Create advanced templates with JavaScript logic                           |
-| **Periodic Notes** | Automate daily, weekly, monthly notes using templates                     |
-| **Excalidraw**     | Draw diagrams, sketches and visual maps inside your notes                 |
-| **Calendar**       | Navigate and create periodic notes visually                               |
-| **Git**            | Version control and backup your vault with Git                            |
-| **Tag Wrangler**   | Rename, merge and bulk-edit tags                                          |
-| **AI Plugins**     | Summarization, auto-tagging, note chat and text generation                |
-
-**Explore all community plugins:**  👉 https://obsidian.md/plugins
+> ⚠️ Les plugins communautaires sont puissants, mais ne sont pas officiellement pris en charge par Obsidian. Vérifiez toujours les avis et la fréquence des mises à jour.
 
 ---
 
-## How to Install a Community Plugin
+### Plugins communautaires indispensables
 
-1. Open **Settings**
-2. Go to **Community Plugins**
-3. Toggle **Safe Mode** (disable it)
-4. Click **Browse** or search for a plugin
-5. Click **Install**, then **Enable**
-6. Restart #Obsidian if necessary
+| Plugin             | Description                                                                                                |
+| ------------------ | ---------------------------------------------------------------------------------------------------------- |
+| **Dataview**       | Interrogez et visualisez vos notes de manière dynamique (tâches, listes, statistiques, fichiers orphelins) |
+| **Templater**      | Créer des modèles avancés avec la logique JavaScript                                                       |
+| **Periodic Notes** | Automatisez vos notes quotidiennes, hebdomadaires et mensuelles à l'aide de modèles.                       |
+| **Excalidraw**     | Dessinez des diagrammes, des croquis et des cartes visuelles dans vos notes.                               |
+| **Calendar**       | Naviguez et créez des notes périodiques visuellement                                                       |
+| **Git**            | Contrôlez les versions et sauvegardez votre coffre-fort avec Git                                           |
+| **Tag Wrangler**   | Renommer, fusionner et modifier en masse les balises                                                       |
+| **AI Plugins**     | Résumé, balisage automatique, chat de notes et génération de texte                                         |
+
+**Découvrez tous les plugins communautaires :** 👉 https://obsidian.md/plugins
 
 ---
 
-> 💡 Tip: Keep your plugins minimal and purposeful — too many plugins can slow down your vault.
+## Comment installer un plugin communautaire
 
+1. Ouvrez **Paramètres**.
+2. Accédez à **Plugins communautaires**.
+3. Activez le **Mode sans échec** (désactivez-le)
+4. Cliquez sur **Parcourir** ou recherchez un plugin
+5. Cliquez sur **Installer**, puis sur **Activer**
+6. Redémarrez #Obsidian si nécessaire
+
+---
+
+> 💡 Astuce : limitez le nombre de plugins et choisissez-les avec soin. Trop de plugins peuvent ralentir votre coffre-fort.
