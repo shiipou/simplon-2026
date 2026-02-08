@@ -1,5 +1,3 @@
-Pour créer une page web en HTML, il suffit de créer un fichier en extension .html.
-
 ## <u>Les balises HTML :</u>
 Le langage HTML utilise des balises. On les écrit entre des chevrons <et>
 
@@ -22,9 +20,8 @@ Ce sont des balises qui servent à insérer un élément à un endroit précis. 
 *Exemple*, avec la balise <image>, il n'est pas nécessaire de délimiter le début et la fin de l'image.
 
 
-## Structure de base d'une page html :
+Ci-dessous les balises principales qui sont utilisées comme structure de base d'une page HTML :
 
-Ci-dessous les balises principales :
 <head> correspond à l'en-tête de la page, le contenu n'apparaît pas dans l'affichage de la page.
 <Body> correspond au corps et il apparaît dans l'affichage de la page.
 <nav>correspond au menu
@@ -34,55 +31,7 @@ Ci-dessous les balises principales :
 <article> permet de séparer le contenu de <section>
 <aside> correspond à la barre de côté d'un site Web
 
-## Un code s'écrit dans un éditeur de code comme Visual Studio Code. 
-Il suffit d'ouvrir le fichier créé avec ".HTML" et de compléter à chaque fois le code ci-dessous :
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <title>Le titre de ma page </title>
-</head>
-<body>
 
-    <header>
-        <h1>My Coding Journey</h1>
-        
-        <nav>
-            <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#posts">Posts</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
-        </nav>
-    </header>
-
-    <main>
-        
-        <article>
-            <h2>Understanding Semantics</h2>
-            <p>Today I learned why semantics matter.</p>
-            <p>It helps accessibility and SEO (Search Engine Optimization).</p>
-        </article>
-
-        <article>
-            <h2>My First Code</h2>
-            <p>I wrote my first HTML tag today!</p>
-        </article>
-
-    </main>
-
-    <aside>
-        <h3>About Me</h3>
-        <p>I am a student learning web development.</p>
-    </aside>
-
-    <footer>
-        <p>&copy; 2023 My Semantic Blog</p>
-    </footer>
-
-</body>
-</html>
-```
 
 ## Commenter** un code en HTML s'écrit :
 <!--C'est un commentaire-->
