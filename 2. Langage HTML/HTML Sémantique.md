@@ -15,7 +15,7 @@ Les balises indiquent la nature du texte qu'elles encadrent. Elles permettent au
 Il existe des balises "**en paires**" et des balises "**orphelines**"
 
 - Les balises "en paires" = comportent une balise ouvrante et une balise fermante
-Elles s'ouvrent, contiennent du texte, et se ferment plus loin.
+Elles s'ouvrent, contiennent du texte ou d'autres éléments, et se ferment plus loin.
 	Exemple, la balise ouvrante <p> ci-dessus, qui se ferme ainsi </p>
 
 - Les balises orphelines = une seule balise
