@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Welcome 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Welcome 1"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "d89ca5b0a1b3ea0c",
   "lastOpenFiles": [
-    "Welcome 1.md",
     "Welcome.md",
+    "Welcome 1.md",
     "HTML.md"
   ]
 }

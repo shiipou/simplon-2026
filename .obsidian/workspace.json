@@ -13,20 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "README.md",
-=======
-                "file": "Semantic HTML.md",
->>>>>>> Stashed changes
+                "file": "1. Méthodes de recherche sur l'internet/filtres de recherche.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< Updated upstream
-              "title": "README"
-=======
-              "title": "Semantic HTML"
->>>>>>> Stashed changes
+              "title": "filtres de recherche"
             }
           }
         ]
@@ -48,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -86,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "2c734dc4b3354dc0",
@@ -215,46 +207,18 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "9. VS Code/Raccourcis VSCode.md",
-    "README.md",
+    "1. Méthodes de recherche sur l'internet/filtres de recherche.md",
     "8. Markdown/Syntaxe.md",
-    "7. Espace de travail/Problèmes techniques.md",
-    "6. GIT/Fonctionnement de GIT.md",
-    "6. GIT/Commande GIT.md",
-    "5. Linux/Installer Linux.md",
-    "5. Linux/Concept Linux.md",
-    "5. Linux/Commandes Linux.md",
+    "README.md",
     "4. Obsidian/Base Obsidian.md",
-    "4. Obsidian/Configuration.md",
-    "4. Obsidian/Plugins.md",
-    "3. Langage CSS/Pseudoclasses.md",
-    "3. Langage CSS/Sélecteurs.md",
-    "3. Langage CSS/Bonne pratiques.md",
-    "3. Langage CSS",
     "2. Langage HTML/Attributs.md",
     "2. Langage HTML/Les balises.md",
     "2. Langage HTML/HTML Sémantique.md",
-    "1.Méthodes de recherche sur l'internet.md",
-    "1. Méthodes de recherche sur l'internet/filtres de recherche.md",
-    "Méthodes de recherche sur l'internet.md",
-    "1. Méthodes de recherche sur l'internet.md",
-    "1. Méthodes de recherche sur l'internet/Opérateur de recherche.md",
-    "1. Méthodes de recherche sur l'internet/structurer sa recherche.md",
-    "Espace de travail.md",
-    "[EPIC]Espace de travail.md",
-    "4. Obsidian",
-    "9. VS Code",
-    "8. Markdown",
-    "2. Langage HTML",
-    "6. GIT",
-    "7. Espace de travail",
-    "1. Méthodes de recherche sur l'internet",
-    "5. Linux"
-=======
     "Semantic HTML.md",
-    "README.md",
+    "3. Langage CSS/Bonne pratiques.md",
+    "7. Espace de travail/Problèmes techniques.md",
+    "4. Obsidian/Plugins.md",
+    "4. Obsidian/Configuration.md",
     "Attributs HTML.md"
->>>>>>> Stashed changes
   ]
 }
