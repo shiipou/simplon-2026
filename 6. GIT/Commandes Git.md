@@ -77,6 +77,9 @@
 # Ajouter tous les fichiers
 	$ git add -A
 
+# Ajouter deux fichiers
+	$ git add <fichier_1> <fichier_2>
+
 # Commit avec message
 	$ git commit -m "Message"
 
