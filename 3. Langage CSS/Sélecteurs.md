@@ -1,0 +1,104 @@
+
+## Intro :
+
+Les sélecteurs désignes un éléments dans le DOM ( document )
+
+Syntaxe : 
+```CSS
+	element { style proprietes }
+```
+
+Exemple : 
+
+ ```CSS
+	 p{
+	 }
+	 span{
+	 }
+	 section{
+	 }
+ ```
+
+On peut déclarer un sélecteurs comme suit : 
+
+```CSS 
+section {
+	color : red;
+}
+```
+
+Quand plusieurs sélecteurs ont la même déclaration , ils peuvent être regrouper et séparé par une virgule.
+
+```CSS
+section,span {
+	color : red;
+}
+```
+
+Le sélecteur peut être un ID , une classe ou une propriété défini dans le HTML : 
+
+``` HTML
+	<p id="myId" class="myClass"> simplon </p>
+```
+
+implémentation CSS :
+
+```CSS
+ #myId{
+	 color : red;
+ }
+ .myClass{
+	 color : red;
+ }
+ [property]{
+	 color : red;
+ }
+```
+
+## Selecteur par enfant : 
+
+Syntaxe :
+
+```CSS
+	selecteur1 > selecteur2 { declarations CSS }
+```
+
+Exemple : 
+
+HTML :
+
+```HTML 
+	<section>
+		<p>
+			Text
+		</p>
+	</section>
+```
+
+CSS : 
+
+```CSS
+	section > p 
+	{
+		color : black;
+	}
+```
+
+Cela colorera le texte en noir dans la balise p sans toucher a ce qu'il y a dans la section
+
+## Les pseudo-classe :
+
+```CSS
+	button:hover
+	{
+		color : blue;
+	}
+```
+
+Les pseudo-classes permettent de styliser un état spécifiques d'un élément.
+
+Doc avec les pseudo-classe possibles : https://developer.mozilla.org/fr/docs/Web/CSS/Reference/Selectors/Pseudo-classes
+
+## Source : 
+
+https://developer.mozilla.org/fr/docs/Web/CSS/Guides/Selectors
