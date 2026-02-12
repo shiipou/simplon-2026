@@ -1,4 +1,4 @@
-1. Introduction au JavaScripta)
+1. Introduction au JavaScript
 	a. Qu'est-ce que JavaScript ?
 
 JavaScript est un **langage de programmation** utilisé pour rendre les pages web interactives.
