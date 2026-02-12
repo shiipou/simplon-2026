@@ -1,4 +1,4 @@
-# VS Code — Raccourcis essentiels (Ultra minimal)
+# Raccourcis essentiels VS Code
 
 ## Commandes & Navigation
 - Palette de commandes : Ctrl + Shift + P
