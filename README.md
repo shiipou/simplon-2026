@@ -50,7 +50,7 @@
 
 ### 10. Javascript (js)
 
-####  -[01 Syntaxe](10%20Javascript%20(js)/01%20Syntaxe.md)
+#### -[01 Syntaxe](10%20Javascript%20(js)/01%20Syntaxe.md)
 #### -[02 Fetch](02%20Fetch.md)
 #### -[03 Manipulation DOM](03%20Manipulation%20DOM.md)
 #### -[04 Promise](04%20Promise.md)
