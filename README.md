@@ -46,3 +46,7 @@
 ### 9. VS Code
 
 #### -[Raccourcis VSCode](Raccourcis%20VSCode.md)
+
+### 10. Veille de la promo
+
+### 11. Veille techno
