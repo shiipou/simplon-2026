@@ -29,7 +29,7 @@ HTML de référence :
  ```
 
 
- _Note: We use `.textContent` and not `.innerText` for standard tags like `<p>`._
+ _Note: Nous utilisons `.textContent` et non `.innerText` pour une balise standard comme `<p>`._
 
   
 ---
