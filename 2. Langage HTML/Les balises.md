@@ -30,7 +30,7 @@ Ci-dessous les balises principales qui sont utilisées comme structure de base d
 <section>permet de séparer le contenu de <main>
 <article> permet de séparer le contenu de <section>
 <aside> correspond à la barre de côté d'un site Web
-
+<header>le container du logo et de la nav en général (tout en haut d'une page web)
 
 
 ## Commenter** un code en HTML s'écrit :
