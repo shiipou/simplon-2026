@@ -62,7 +62,7 @@
 #### -[01. Syntaxe](01.%20Syntaxe.md)
 #### -[02. Fetch](10.%20Javascript%20(js)/02.%20Fetch.md)
 #### -[03. Manipulation DOM](03.%20Manipulation%20DOM.md)
-#### -[04. Promise](04.%20Promise.md)
+#### -[04. Promise et async](04.%20Promise%20et%20async.md)
 
 ### 11. Veille techno
 
