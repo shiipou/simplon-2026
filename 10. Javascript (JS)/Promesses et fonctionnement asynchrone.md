@@ -1,0 +1,94 @@
+
+*Si vous souhaitez plus de détails, je vous conseille la page suivante, qui est illustrée et assez accessible à tout niveau : * [MDN : Promise](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+
+# Qu'est-ce que l'asynchronisme ?
+
+En Javascript/JS, le programme peut s'exécuter de manière **<mark style="background:#fdbfff">asynchrone</mark>**, c'est à dire qu'il s'exécute sans s'interrompre, en prenant en compte le temps. Cela peut servir à deux choses :
+- **préparer au préalable le traitement d'une ou plusieurs donnée(s)** dans l'**attente de celle-ci**, car elle peut prendre un certain temps (dépendant de la machine et de la connexion) à être retournée.
+- Attendre la fin de l'instruction ou du parse ("grosse" conversion du type d'une donnée) de quelque chose avant d'exécuter ce bloc.
+Pour définir qu'une fonction est asynchrone en Javascript/JS, on utilise le mot réservé `async` :
+**Ex :**
+```javascript
+async function myPromise(a) {
+	return a
+}
+```
+# Les promesses :
+
+Les **promesses** (`promise` en JavaScript / JS) sont des __**intermédiaires** vers ces données__, c'est-à-dire qu'elle servent de "moule"/"conteneur d'exemple pour se préparer à les modifier. Elles ont plusieurs états possibles :
+- _pending (en attente)_ : état initial, la donnée est en attente de traitement
+- _fulfilled (tenue_) : l'opération a réussi
+- _rejected (rompue)_ : l'opération a échoué.
+A noter qu'une promesse est forcément asynchrone, on ne sait pas quand exactement et si elle sera tenue ou rompue, ou plus simplement : en **Javascript/JS**, l'objet `Promise` est **toujours retournée par une fonction asynchrone**.
+
+# Les mots clés :
+
+Il y a deux méthodes pour récupérer une promesse :
+ - Utiliser `.then` (idéal pour de longs codes liés au promesses)
+	 - ```javascript
+	   async function monApi (API) {
+			fetch(API)
+			.then (resultat => {
+				console.log("Coucou")
+				})
+		}
+	   ```
+ - Ou utiliser `await` (préférable pour de petits codes liés à une promesse)
+	 - ```javascript
+		async function monApi (API) {
+				whatIWant = await fetch(API);
+		}
+	   ```
+ 
+La différence notable entre les deux est que `.then` permet de paralléliser des appels de promesse (cf. infoblock ci-dessous).
+ 
+ > [!info]- Expliquer le parallélisme et la bande passante en analogie
+> En réseau, la bande passante est un paramètre critique qui joue énormément sur la vitesse de réception des données, plus précisément, en augmentant la quantité de données reçues.
+> 
+> Voyez-la comme un tuyau. Si vous utiliser un petit tuyau, l'eau circulera moins nombreuse car votre tuyau est peu large. Si vous utilisez un tuyau plus large, beaucoup plus d'eau circulera
+> 
+> Si nous repartons sur notre sujet de base, paralléliser reviens à utiliser plus d'eau dans notre tuyau en utilisant le maximum de sa largeur, afin d'en transporter plus.
+> 
+> Le terme technique pour cette limitation de largeur de bande passante est appelée "goulot d'étranglement".
+
+Tandis que `await` est une syntaxe moins verbeuse et plus libre pour récupérer une promesse.
+
+> [!example]- Exemple de parallélisation en JS
+> **Nous aurons l'occasion d'étudier ça plus en détail au cours de l'année**
+> ```javascript
+> const userIds = [1, 2, 3, 4, 5];
+> 
+> const promises = userIds.map(id =>
+>      fetch(`/users/${id}`)
+>           .then(response => response.json())
+> );
+> const users = await Promise.all(promises);
+> ```
+
+> [!important]+ Manipulation asynchrone !!!
+> Ces mots-clés servent à manipuler des données et fonctions **asynchrones !!!**
+> Elles doivent par conséquent être contenues dans des fonctions **asynchrones !!!**
+## Gestion d'erreur :
+
+Pour gérer les erreurs possibles dans les cas d'asynchronismes, les fonctions clés `.catch()` et `.finally` sont là pour nous aider :
+- `.catch()` : "Attrape" l'erreur précisée en paramètre pour effectuer des actions uniques à cette erreur :
+	- ```javascript
+	  async function monApi (API) {
+		  fetch(API)
+		  .then(result => {console.log("Coucou")})
+		  .catch(error => {console.error("Une erreur est survenue")})
+	  }
+	  ```
+- `.finally` : Permet d'exécuter ce bloc de code quel que soit le résultat (erreur ou non), cela permet notamment d'éviter de dupliquer des `.then`.
+	- ```javascript
+	  async function monApi (API) {
+		  fetch(API)
+		  .then(result => {console.log("Coucou")})
+		  .catch(error => {console.error("Une erreur est survenue")})
+		  .finally(myMessage => {console.log("Qu'il y ait une erreur ou non, ce code s'exécute toujours")})
+	  }
+	  ```
+# Cas pratiques :
+
+- Elles sont notamment utiles dans des cas de récupération de données distantes (sous formes de .json, .xml, etc) avec par exemple l'API `fetch()`.
+- Elles sont aussi utiles dans le cas où l'on convertit le retour d'un `fetch()` pour l'adapter et formatter les données à notre code (on parle alors de `parse`).
