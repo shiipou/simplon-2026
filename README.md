@@ -36,6 +36,7 @@
 #### -[01. Commande GIT](01.%20Commande%20GIT.md)
 #### -[02. Fonctionnement de GIT](02.%20Fonctionnement%20de%20GIT.md)
 #### -[03. Git Flow du repo](06.%20GIT/03.%20Git%20Flow%20du%20repo.md)
+#### -[04. Résoudre ses conflits sur Git](06.%20GIT/04.%20Résoudre%20ses%20conflits%20sur%20Git.md)
 
 ### 07. Espace de travail
 
@@ -43,14 +44,14 @@
 
 ### 08. Markdown
 
-#### -[[01. Historique]]
-#### -[[02. Le principe]]
-#### -[[03. Insérer ...]]
-#### -[[04. La mise en forme du texte]]
-#### -[[05. Les blocs (de texte, code ...)]]
-#### -[[06. Les listes]]
-#### -[[07. Les titres]]
-#### -[[08. Syntaxe]]
+#### -[01. Historique](08.%20Markdown/01.%20Historique.md)
+#### -[02. Le principe](08.%20Markdown/02.%20Le%20principe.md)
+#### -[03. Insérer ...](08.%20Markdown/03.%20Insérer%20....md)
+#### -[04. La mise en forme du texte](08.%20Markdown/04.%20La%20mise%20en%20forme%20du%20texte.md)
+#### -[05. Les blocs (de texte, code ...)](08.%20Markdown/05.%20Les%20blocs%20(de%20texte,%20code%20...).md)
+#### -[06. Les listes](08.%20Markdown/06.%20Les%20listes.md)
+#### -[07. Les titres](08.%20Markdown/07.%20Les%20titres.md)
+#### -[08. Syntaxe](08.%20Markdown/08.%20Syntaxe.md)
 
 ### 09. VS Code
 
