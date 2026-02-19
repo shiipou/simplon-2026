@@ -1,4 +1,4 @@
-
+git
 ### argument de commande
 
 Pour saisir des instructions Linux et les faire exécuter par le système, il faut préalablement ouvrir une ligne de commande (CLI). Il s’agit en effet d’un terminal qui permet aux utilisateurs d’écrire les commandes pour dicter à la machine les actions à réaliser.
@@ -38,7 +38,7 @@ Command Linux ‘ls’
 
 
 
-![Command Linux 'ls' - resultat](https://blog.lesjeudis.com/wp-content/uploads/2023/03/command-linus-ls-resultat.jpg)
+
 
 Command Linux ‘ls’ – resultat
 
@@ -72,19 +72,12 @@ La commande « pwd » est un diminutif de _Print Working Directory_. Comme 
 
 Command Linux ‘pwd’
 
-![Command Linux pwd Resultat](https://blog.lesjeudis.com/wp-content/uploads/2023/03/command-linux-pwd-resultat.png)
-
-Command Linux ‘pwd’ – resultat
-
 ### **4 – La commande cat**
 
 Abréviation de _Concatenate_, la commande « cat » est aussi très utilisée. Si elle sert souvent à prévisualiser un fichier sans ouvrir un éditeur de texte, elle permet essentiellement de créer, d’afficher et de concaténer des fichiers en ligne de commande.
 
 De plus, la ligne “cat _nomDuFichier.extension_” affiche le contenu d’un fichier. Cette commande offre également d’autres options pour le traitement de textes. Elle peut par exemple afficher les numéros de ligne ou supprimer les lignes d’un fichier dans la mesure où elles sont vides.
 
-![Command Linux cat](https://blog.lesjeudis.com/wp-content/uploads/2023/03/command-linux-cat.png)
-
-Command Linux ‘cat’
 
 ![Command Linux cat Resultat](https://blog.lesjeudis.com/wp-content/uploads/2023/03/command-linux-cat-resultat.png)
 
@@ -100,9 +93,6 @@ Le second paramètre quant à lui est le nom et l’extension du fichier de dest
 
 Command Linux ‘cp’
 
-![Command Linux cp Resultat](https://blog.lesjeudis.com/wp-content/uploads/2023/03/command-linux-cp-resultat.png)
-
-Command Linux ‘cp’ – resultat
 
 ---
 
@@ -110,9 +100,6 @@ Command Linux ‘cp’ – resultat
 
 Command Linux ‘cp’
 
-![Command Linux cp Resultat](https://blog.lesjeudis.com/wp-content/uploads/2023/03/command-linux-cp-resultat-directory.png)
-
-Command Linux ‘cp’ – resultat
 
 ### **6 – La commande mkdir**
 
@@ -126,11 +113,8 @@ Command Linux ‘mkdir’
 
 ![Command Linux mkdir verifier](https://blog.lesjeudis.com/wp-content/uploads/2023/03/command-linux-mkdir-verifier.png)
 
-Command Linux ‘mkdir’ – verifier
+Command Linux ‘ls’ – afficher fichier
 
-![Command Linux mkdir resultat](https://blog.lesjeudis.com/wp-content/uploads/2023/03/command-linux-mkdir-verifier-resultat.png)
-
-Command Linux ‘mkdir’ – resultat
 
 ### **7 – La commande mv**
 
@@ -176,7 +160,7 @@ Le terminal Linux a tout prévu pour vous permettre de bien utiliser chacune de 
 
 ![Command Linux man](https://blog.lesjeudis.com/wp-content/uploads/2023/03/command-linux-man.png)
 
-Command Linux ‘rm’
+
 
 ![Command Linux man resultat](https://blog.lesjeudis.com/wp-content/uploads/2023/03/command-linux-man-resultat.png)
 
@@ -252,9 +236,6 @@ Cette commande prend en premier argument le nom du nouvel utilisateur et en seco
 
 Command Linux ‘chown’
 
-![Command Linux chown vérifier la propriété du fichier](https://blog.lesjeudis.com/wp-content/uploads/2023/03/command-linux-chown-verifier-la-propriete-du-fichier.png)
-
-Command Linux ‘chown’ – vérifier la propriété du fichier
 
 ![Command Linux chown vérifier resultat](https://blog.lesjeudis.com/wp-content/uploads/2023/03/command-linux-chown-verifier-resultat.png)
 
@@ -418,9 +399,6 @@ Pour arrêter un programme Linux en qui ne répond pas ou qui consomme énormém
 
 Command Linux ‘kill’
 
-![Command Linux kill forcer l'arrêt](https://blog.lesjeudis.com/wp-content/uploads/2023/03/command-linux-kill-forcer-l-arret.png)
-
-Command Linux ‘kill’ – forcer l’arrêt
 
 ### **27 – La commande ping**
 
@@ -538,9 +516,6 @@ Par exemple, utilisez la commande « useradd » pour créer un nouvel utilis
 
 Command Linux ‘groupadd’
 
-![Command Linux groupadd vérifier](https://blog.lesjeudis.com/wp-content/uploads/2023/03/command-linux-groupadd-verifier.png)
-
-Command Linux ‘groupadd’ – vérifier
 
 ![Command Linux groupadd vérifier resultat](https://blog.lesjeudis.com/wp-content/uploads/2023/03/command-linux-groupadd-verifier-resultat.png)
 
@@ -558,33 +533,14 @@ Command Linux ‘groupmod’ – resultat
 
 ---
 
-![Command Linux useradd](https://blog.lesjeudis.com/wp-content/uploads/2023/03/command-linux-useradd.png)
 
-Command Linux ‘useradd’
-
-![Command Linux useradd resultat](https://blog.lesjeudis.com/wp-content/uploads/2023/03/command-linux-useradd-resultat.png)
-
-Command Linux ‘useradd’ – resultat
 
 ---
 
-![Command Linux userdel](https://blog.lesjeudis.com/wp-content/uploads/2023/03/command-linux-userdel.png)
 
-Command Linux ‘userdel’
-
-![Command Linux userdel resultat](https://blog.lesjeudis.com/wp-content/uploads/2023/03/command-linux-userdel-resultat.png)
-
-Command Linux ‘userdel’ – resultat
 
 ---
 
-![Command Linux usermod](https://blog.lesjeudis.com/wp-content/uploads/2023/03/command-linux-usermod.png)
-
-Command Linux ‘usermod’
-
-![Command Linux usermod resultat](https://blog.lesjeudis.com/wp-content/uploads/2023/03/command-linux-usermod-resultat.png)
-
-Command Linux ‘usermod’ – resultat
 
 ## **Les bonnes astuces à utiliser sur un terminal Linux**
 
