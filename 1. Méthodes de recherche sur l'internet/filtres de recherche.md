@@ -1,22 +1,23 @@
 Comment utiliser des filtres de recherche efficacement ?
 
-- Utiliser de préférence l'anglais
- 
-- Préciser une date si nécessaire, sinon penser à la vérifier lors de l'affichage des résultats
+Vous pouvez utiliser les filtres suivants :
 
-- Utiliser les guillemets pour que le moteur de recherche cherche les mots séparément. 
+- Les guillemets permettent de garantir que le résultat est lié à la requête exacte, c'est à dire le groupe de mots entre parenthèses.
 
-- Afin d'orienter la recherche, utiliser le signe moins "-", ce qui permet d'exclure des mots très répandus qui ont un rapport éloigné avec la recherche. 
+- L'étoile permet de remplacer un mot que vous ne connaissez pas.
 
-- Renseigner, si besoin, un type de fichier comme le "PDF"
+- Le symbole -, permet d'exclure un mot des résultats.
 
-- Préciser le contexte comme le langage, le système d'exploitation, la version... (cf document "structurer sa recherche)
+- "date indifférente" permet de classer les résultats selon leur date de publication. Si vous avez la date précise, il est pertinent de la préciser.
 
-- Cibler la recherche avec des documentations officielles comme mdn, Github... (cf document "structurer sa recherche")
+- Renseigner, si besoin, un type de fichier comme le "PDF".
 
-
-
-
+Sous google :
+- Web, permet d'afficher des résultats non filtrés qui peuvent inclure tous les types de contenu.
+- Images, permet d'afficher uniquement les résultats de Google images.
+- Vidéos, permet d'afficher uniquement les résultats de la recherche de vidéos de Google.
+- Actualités, permet d'afficher uniquement les résultats de Google Actualités.
+- Blogs, permet d'afficher uniquement les résultats de Google Recherche de blogs.
 
 
 
