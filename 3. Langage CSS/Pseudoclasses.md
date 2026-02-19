@@ -10,6 +10,14 @@ selecteur:pseudo-classe {
 }
 ```
 
+## Différence entre pseudo-classes et pseudo-éléments
+
+|Pseudo-classe|Pseudo-élément|
+|---|---|
+|Commence par `:`|Commence par `::`|
+|Définit un état|Crée une partie virtuelle|
+|Exemple : `:hover`|Exemple : `::before`|
+
 ---
 ## 1. Pseudo-classe liée aux interactions utilisateur
 
@@ -42,24 +50,6 @@ button:active {
 ```css
 input:focus {
 	border: 2px solid green;
-}
-```
-
----
-`:focus-visible` : Appliquée lorsque le focus est visible (navigation clavier)
-
-```css
-button:focus-visible {
-	outline: 3px solid orange;
-}
-```
-
----
-`:focus-within` : Appliquée à un parent si un de ses enfants a le focus
-
-```css
-form:focus-within {
-	background-color: #f0f0f0;
 }
 ```
 
@@ -130,138 +120,133 @@ li: nth-last-child(1) {
 ```
 
 ---
-## `:first-of-type`
+`:first-of-type` : Premier élément du même type.
 
-Premier élément du même type.
+```css
+p:first-of-type {   
+	font-size: 20px; 
+}
+```
+---
+`:last-of-type` : Dernier élément du même type
 
-`p:first-of-type {   font-size: 20px; }`
+```css
+p:last-of-type {   
+	color: orange; 
+}
+```
+---
+`:only-child` : Élément unique enfant.
 
-## `:last-of-type`
-
-`p:last-of-type {   color: orange; }`
-
-## `:nth-of-type(n)`
-
-`p:nth-of-type(2) {   color: red; }`
-
-## `:only-child`
-
-Élément unique enfant.
-
-`div:only-child {   border: 1px solid black; }`
-
-## `:only-of-type`
-
-Unique élément de son type.
+```css
+div:only-child {   
+	border: 1px solid black; 
+}
+```
 
 ---
 
-# 🔹 4. Pseudo-classes liées aux formulaires
+## Pseudo-classes liées aux formulaires
 
-## `:checked`
+`:checked` : Pour les cases cochées.
 
-Pour les cases cochées.
+```css 
+input:checked {   
+	accent-color: green; 
+}
+```
+---
+`:disabled` : Élément désactivé.
 
-`input:checked {   accent-color: green; }`
+```css 
+input:disabled {   
+	background: #ddd; 
+}
+```
+---
+`:enabled` : Élément activé.
 
-## `:disabled`
+```css
+input:enabled {
+	border-right; 2px solid blue;
+}
+```
 
-Élément désactivé.
+---
+`:required` : Champ requis.
 
-`input:disabled {   background: #ddd; }`
+```css
+input:required {   
+	border-left: 4px solid red; 
+}
+```
+---
+`:optional` : Champ non requis.
 
-## `:enabled`
+```css
+input:optional {
+	border-bottom: 3px yellow;
+}
+```
 
-Élément activé.
+---
+`:valid` : Contenu valide.
 
-## `:required`
+```css
+input:valid {   
+	border-color: green; 
+}
+```
+---
+`:read-only` : Champ en lecture seule.
 
-Champ requis.
 
-`input:required {   border-left: 4px solid red; }`
 
-## `:optional`
 
-Champ non requis.
+---
+## 5. Pseudo-classes logiques (sélecteurs avancés)
 
-## `:valid`
+`:not()` : Exclut des éléments.
 
-Contenu valide.
+```css
+div:not(.active) {   
+	opacity: 0.5; 
+}
+```
 
-`input:valid {   border-color: green; }`
+---
+`:is()` : Regroupe plusieurs sélecteurs.
 
-## `:invalid`
+```css
+:is(h1, h2, h3) {   
+	color: navy; 
+}
+```
+---
+`:has()` : Sélectionne un parent selon ses enfants.
 
-Contenu invalide.
-
-`input:invalid {   border-color: red; }`
-
-## `:in-range`
-
-Valeur dans l’intervalle autorisé.
-
-## `:out-of-range`
-
-Valeur hors intervalle.
-
-## `:read-only`
-
-Champ en lecture seule.
-
-## `:read-write`
-
-Champ modifiable.
+```css
+div:has(img) {   
+	border: 2px solid blue; 
+}
+```
 
 ---
 
-# 🔹 5. Pseudo-classes logiques (sélecteurs avancés)
+##  6.Pseudo-classes globales
 
-## `:not()`
+`:root` : Sélectionne l’élément racine (`html`).
 
-Exclut des éléments.
+```css
+:root {   
+	--main-color: #3498db; 
+}
+```
 
-`div:not(.active) {   opacity: 0.5; }`
+`:empty` : Élément sans contenu.
 
-## `:is()`
-
-Regroupe plusieurs sélecteurs.
-
-`:is(h1, h2, h3) {   color: navy; }`
-
-## `:where()`
-
-Comme `:is()` mais sans ajouter de spécificité.
-
-`:where(section, article) {   margin: 20px; }`
-
-## `:has()` (moderne)
-
-Sélectionne un parent selon ses enfants.
-
-`div:has(img) {   border: 2px solid blue; }`
-
----
-
-# 🔹 6. Pseudo-classes globales
-
-## `:root`
-
-Sélectionne l’élément racine (`html`).
-
-`:root {   --main-color: #3498db; }`
-
-## `:empty`
-
-Élément sans contenu.
-
-`div:empty {   display: none; }`
-
----
-
-# 🔹 Différence entre pseudo-classes et pseudo-éléments
-
-|Pseudo-classe|Pseudo-élément|
-|---|---|
-|Commence par `:`|Commence par `::`|
-|Définit un état|Crée une partie virtuelle|
-|Exemple : `:hover`|Exemple : `::before`|
+```css
+div:empty {   
+	display: none; 
+}
+```
