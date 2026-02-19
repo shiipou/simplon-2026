@@ -1,0 +1,48 @@
+- accueil
+- installation l'environnement de travail
+	- -VMs
+		- -windows
+		- -wsl
+	- Clé MFA
+	- -Obsidian
+	- -VScode
+	- -git Bash
+	- -Citix
+	- -Jav
+	-Recherche google
+	-HTML/CSS
+		-HTML semantique
+		-flexbox CSS
+		-Syntaxe CSS
+			-Sélecteurs 
+			-Propriété / Attributs
+			-Héritage Parents enfants
+			-Variàble Css (:root{ --myvar: xxxx})
+			- Lien entre HTML CSS
+	- Linux
+		- -Commandes Linux CLI
+		- -Editeur de texte
+			- -VI/VIM/NVIM
+			- -Nano
+			- -ED
+			- -Commande touch
+			-
+	--GIt
+		-CréATION DE BRANCHES
+		-Résolution de conflits
+		-Issues/Sub-Issues
+		-Régle de bases
+			-`git add
+			-git commit
+			-git push
+			-git merge
+			-git pull
+			-git clone
+			-git fetch
+			-git status
+	- - Authentification
+		- Git Bash / token 
+	- Documentation collective 
+		- Première réunion en méthode Agile 
+		- Créer des taches 
+		- Répartition du travail - Rédaction
