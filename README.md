@@ -1,0 +1,79 @@
+# simplon-2026
+
+## Table des matières
+
+### 01. Méthodes de recherche sur l'internet
+#### -[01 Structurer sa recherche](01%20Structurer%20sa%20recherche.md)
+#### -[02. Opérateur de recherche](01.%20Méthodes%20de%20recherche%20sur%20l'internet/02.%20Opérateur%20de%20recherche.md)
+#### -[03. Filtres de recherche](03.%20Filtres%20de%20recherche.md)
+
+### 02. Langage HTML
+
+#### -[01. Attributs](01.%20Attributs.md)
+#### -[02. HTML Sémantique](02.%20HTML%20Sémantique.md)
+#### -[03. Les balises](03.%20Les%20balises.md)
+
+### 03. Langage CSS
+
+#### -[01 Bonne pratiques](01%20Bonne%20pratiques.md)
+#### -[02. Pseudoclasses](03.%20Langage%20CSS/02.%20Pseudoclasses.md)
+#### -[03. Sélecteurs](03.%20Sélecteurs.md)
+
+### 04. Obsidian
+
+#### -[01. Base Obsidian](01.%20Base%20Obsidian.md)
+#### -[02. Configuration](02.%20Configuration.md)
+#### -[03. Plugins](03.%20Plugins.md)
+
+### 05. Linux
+
+#### -[01. Commandes Linux](01.%20Commandes%20Linux.md)
+#### -[02. Concept Linux](02.%20Concept%20Linux.md)
+#### -[03. Installer Linux](03.%20Installer%20Linux.md)
+
+### 06. GIT
+
+#### -[01. Commande GIT](01.%20Commande%20GIT.md)
+#### -[02. Fonctionnement de GIT](02.%20Fonctionnement%20de%20GIT.md)
+#### -[03. Git Flow du repo](06.%20GIT/03.%20Git%20Flow%20du%20repo.md)
+#### -[04. Résoudre ses conflits sur Git](06.%20GIT/04.%20Résoudre%20ses%20conflits%20sur%20Git.md)
+
+### 07. Espace de travail
+
+#### -[01. Problèmes techniques](01.%20Problèmes%20techniques.md)
+
+### 08. Markdown
+
+#### -[01. Historique](08.%20Markdown/01.%20Historique.md)
+#### -[02. Le principe](08.%20Markdown/02.%20Le%20principe.md)
+#### -[03. Insérer ...](08.%20Markdown/03.%20Insérer%20....md)
+#### -[04. La mise en forme du texte](08.%20Markdown/04.%20La%20mise%20en%20forme%20du%20texte.md)
+#### -[05. Les blocs (de texte, code ...)](08.%20Markdown/05.%20Les%20blocs%20(de%20texte,%20code%20...).md)
+#### -[06. Les listes](08.%20Markdown/06.%20Les%20listes.md)
+#### -[07. Les titres](08.%20Markdown/07.%20Les%20titres.md)
+#### -[08. Syntaxe](08.%20Markdown/08.%20Syntaxe.md)
+
+### 09. VS Code
+
+#### -[01. Raccourcis VSCode](01.%20Raccourcis%20VSCode.md)
+
+### 10. Javascript (js)
+
+#### -[01. Syntaxe](01.%20Syntaxe.md)
+#### -[02. Fetch](10.%20Javascript%20(js)/02.%20Fetch.md)
+#### -[03. Manipulation DOM](03.%20Manipulation%20DOM.md)
+#### -[04. Promise](04.%20Promise.md)
+
+### 11. Veille techno
+
+### 12. Java
+
+#### -[01. Architecture de Java](01.%20Architecture%20de%20Java)
+#### -[02. Les types](02.%20Les%20types)
+#### -[03. Les variables](03.%20Les%20variables)
+#### -[04. Les conditions](04.%20Les%20conditions)
+#### -[05. Les boucles](05.%20Les%20boucles)
+#### -[06. Les methods](06.%20Les%20methods)
+#### -[07. Entrées utilisateurs](07.%20Entrées%20utilisateurs)
+#### -[08. Gérer un nombre aléatoire](08.%20Gérer%20un%20nombre%20aléatoire)
+#### -[09. Créer et structurer une class en java](09.%20Créer%20et%20structurer%20une%20class%20en%20java)
