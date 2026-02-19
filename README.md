@@ -4,7 +4,7 @@
 
 ### 01. Méthodes de recherche sur l'internet
 #### -[01 Structurer sa recherche](01%20Structurer%20sa%20recherche.md)
-#### -[02. Opérateur de recherche](02.%20Opérateur%20de%20recherche.md)
+#### -[02. Opérateur de recherche](01.%20Méthodes%20de%20recherche%20sur%20l'internet/02.%20Opérateur%20de%20recherche.md)
 #### -[03. Filtres de recherche](03.%20Filtres%20de%20recherche.md)
 
 ### 02. Langage HTML
@@ -59,7 +59,7 @@
 ### 10. Javascript (js)
 
 #### -[01. Syntaxe](01.%20Syntaxe.md)
-#### -[02. Fetch](02.%20Fetch.md)
+#### -[02. Fetch](10.%20Javascript%20(js)/02.%20Fetch.md)
 #### -[03. Manipulation DOM](03.%20Manipulation%20DOM.md)
 #### -[04. Promise](04.%20Promise.md)
 
