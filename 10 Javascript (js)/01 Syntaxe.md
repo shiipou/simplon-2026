@@ -1,18 +1,18 @@
-1. Introduction au JavaScripta)
-	a. Qu'est-ce que JavaScript ?
+## Introduction au JavaScripta)
+### Qu'est-ce que JavaScript ?
 
 JavaScript est un **langage de programmation** utilisé pour rendre les pages web interactives.
 
-	 **Caractéristiques principales :**
+**Caractéristiques principales :**
 
-- **Langage interprété** (exécuté par le navigateur)
+ **Langage interprété** (exécuté par le navigateur)
     
-- **Interaction avec HTML et CSS**
+ **Interaction avec HTML et CSS**
     
-- **Gestion des événements** (clics, formulaires, animations, etc.)
+ **Gestion des événements** (clics, formulaires, animations, etc.)
     
 
-b) Où écrire le JavaScript ?
+### Où écrire le JavaScript ?
 
 Il existe trois manières d’intégrer JavaScript à une page HTML :
 
@@ -22,15 +22,15 @@ Il existe trois manières d’intégrer JavaScript à une page HTML :
 |**Externe (`.js`)**|Fichier séparé, inclus avec `<script src="script.js">`|
 |**En ligne (`onclick="..."`)**|Directement dans une balise HTML (peu recommandé)|
 
-	 **Exemple d’inclusion externe :**
+**Exemple d’inclusion externe :**
 
 HTML
 
 `<script src="script.js"></script>`
 
 
-2. Variables et Types de données
-	a) Déclaration des variables
+## Variables et Types de données
+### Déclaration des variables
 
 |**Mot-clé**|**Description**|
 |---|---|
@@ -38,14 +38,15 @@ HTML
 |`let`|Portée limitée au bloc où elle est définie|
 |`const`|Variable **constante** qui ne peut pas être modifiée|
 
-	 **Exemple :**
-
+**Exemple :**
+```
 JavaScript
 
-`let nom = "Alice";
-	const age = 25;
-	
-b) Types de données
+let nom = "Alice";
+const age = 25;
+```
+
+###Types de données
 
 |**Type**|**Exemple**|
 |---|---|
@@ -55,27 +56,28 @@ b) Types de données
 |`Array`|`let fruits = ["Pomme", "Banane"];`|
 |`Object`|`let personne = {nom: "Alice", age: 25};`|
 
-3. Opérateurs et Conditionsa) 
-	a) Opérateurs arithmétiques
+## Opérateurs et Conditionsa) 
+### Opérateurs arithmétiques
 
-	 **Principaux opérateurs :**
+**Principaux opérateurs :**
+```
+
 
 JavaScript
 
-`let a = 10, b = 5; 
+let a = 10, b = 5; 
 console.log(a + b); // Addition 
 console.log(a - b); // Soustraction 
 console.log(a * b); // Multiplication 
 console.log(a / b); // Division 
 console.log(a % b); // Modulo
-
-
+```
 
 ???+ question "b) Conditions (`if` / `else` / `switch`)
 
 
 
-``  **Exemple avec `if` :**
+``**Exemple avec `if` :**
 ```js
 let age = 18;
  if (age >= 18) {
@@ -103,8 +105,8 @@ switch (fruit) {
 
 
 
-4. Boucles
-   a) `for`
+### Boucles
+### `for`
 
 	 **Exemple :**
 
@@ -126,7 +128,7 @@ JavaScript
           x++; 
           }`
 
-	 **Exemple `do while` :**
+**Exemple `do while` :**
 
 JavaScript
 
@@ -138,10 +140,10 @@ JavaScript
 
 
 
-5. Fonctions
-   a) Déclaration d'une fonction
+## Fonctions
+### Déclaration d'une fonction
 
-	 **Exemple de fonction classique :**
+**Exemple de fonction classique :**
 
 JavaScript
 
@@ -153,7 +155,7 @@ console.log(saluer("Alice"));`
 
 b) Fonctions fléchées (ES6)
 
-	 **Exemple :**
+**Exemple :**
 
 JavaScript
 
@@ -162,9 +164,9 @@ JavaScript
  
  
  
-6. Manipulation du DOM
+## Manipulation du DOM
    
-   a) Sélection d'éléments HTML
+### Sélection d'éléments HTML
 
 |**Méthode**|**Description**|
 |---|---|
@@ -172,7 +174,7 @@ JavaScript
 |`getElementsByClassName("classe")`|Sélectionne une collection d'éléments|
 |`querySelector("selector")`|Sélectionne le premier élément correspondant|
 
-	 **Exemple :**
+**Exemple :**
 
 JavaScript
 
@@ -182,7 +184,7 @@ JavaScript
 
 b) Modification du style
 
-	 **Exemple :**
+**Exemple :**
 
 JavaScript
 
@@ -190,16 +192,16 @@ JavaScript
 
 
 
-7. Gestion des événementsa) Ajouter un événement
+### Gestion des événementsa) Ajouter un événement
 
-	 **Exemple :**
+ **Exemple :**
 
 JavaScript
 
 `document.getElementById("monBouton").addEventListener("click", function() {     alert("Bouton cliqué !");
 });`
 
- b) Où écrire le JavaScript ?
+## Où écrire le JavaScript ?
 
 Il existe trois manières d’intégrer JavaScript à une page HTML :
 
@@ -209,15 +211,14 @@ Il existe trois manières d’intégrer JavaScript à une page HTML :
 |**Externe (`.js`)**|Fichier séparé, inclus avec `<script src="script.js">`|
 |**En ligne (`onclick="..."`)**|Directement dans une balise HTML (peu recommandé)|
 
-	 **Exemple d’inclusion externe :**
+**Exemple d’inclusion externe :**
 
 HTML
 
 `<script src="script.js"></script>`
 
 
-
-2. Variables et Types de donnéesa) Déclaration des variables
+## Variables et Types de donnéesa) Déclaration des variables
 
 |**Mot-clé**|**Description**|
 |---|---|
@@ -230,7 +231,7 @@ HTML
 JavaScript
 
 `let nom = "Alice"; const age = 25;`
-b) Types de données
+### Types de données
 
 |**Type**|**Exemple**|
 |---|---|
@@ -240,7 +241,7 @@ b) Types de données
 |`Array`|`let fruits = ["Pomme", "Banane"];`|
 |`Object`|`let personne = {nom: "Alice", age: 25};`|
 
-3. Opérateurs et Conditionsa) Opérateurs arithmétiques
+### Opérateurs et Conditionsa) Opérateurs arithmétiques
 
  **Principaux opérateurs :**
 
@@ -252,7 +253,7 @@ JavaScript
 
  Texte
 
-``  **Exemple avec `if` :**
+``**Exemple avec `if` :**
 ```js let age = 18;
 if (age >= 18) {
      console.log("Majeur");
@@ -260,7 +261,7 @@ if (age >= 18) {
     console.log("Mineur");
 }    
 ```
-  **Exemple avec `switch` :**
+**Exemple avec `switch` :**
   
   
 ```js let fruit = "Banane";
@@ -276,10 +277,9 @@ if (age >= 18) {
 } 
 ```
 
+## Bouclesa) `for`
 
-4. Bouclesa) `for`
-
-	 **Exemple :**
+**Exemple :**
 
 JavaScript
 
@@ -289,9 +289,9 @@ console.log("Itération n°" + i);
 `
 
 
-b) `while` et `do while`
+## `while` et `do while`
 
-	 **Exemple `while` :**
+**Exemple `while` :**
 
 JavaScript
 
@@ -299,7 +299,7 @@ JavaScript
 console.log(x);
 x++; }`
 
-	**Exemple `do while` :**
+**Exemple `do while` :**
 
 JavaScript
 
@@ -310,10 +310,10 @@ y++;
 } while (y < 3);`
 
 
-5. Fonctions
-	a) Déclaration d'une fonction
+## Fonctions
+### Déclaration d'une fonction
 
-	 **Exemple de fonction classique :**
+**Exemple de fonction classique :**
 
 JavaScript
 
@@ -323,9 +323,9 @@ return "Bonjour, " + nom;
 console.log(saluer("Alice"));`
 
 
-b) Fonctions fléchées (ES6)
+## Fonctions fléchées (ES6)
 
-	 **Exemple :**
+**Exemple :**
 
 JavaScript
 
@@ -333,7 +333,7 @@ JavaScript
 
 
 
-6. Manipulation du DOMa) Sélection d'éléments HTML
+## Manipulation du DOMa) Sélection d'éléments HTML
 
 |**Méthode**|**Description**|
 |---|---|
@@ -341,7 +341,7 @@ JavaScript
 |`getElementsByClassName("classe")`|Sélectionne une collection d'éléments|
 |`querySelector("selector")`|Sélectionne le premier élément correspondant|
 
-	 **Exemple :**
+**Exemple :**
 
 JavaScript
 
@@ -349,9 +349,9 @@ JavaScript
 
 
 
-b) Modification du style
+### Modification du style
 
-	 **Exemple :**
+**Exemple :**
 
 JavaScript
 
@@ -359,9 +359,9 @@ JavaScript
 
 
 
-7. Gestion des événementsa) Ajouter un événement
+### Gestion des événementsa) Ajouter un événement
 
-	 **Exemple :**
+**Exemple :**
 
 JavaScript
 
