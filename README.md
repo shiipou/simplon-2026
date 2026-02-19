@@ -36,6 +36,8 @@
 #### -[01. Commande GIT](01.%20Commande%20GIT.md)
 #### -[02. Fonctionnement de GIT](02.%20Fonctionnement%20de%20GIT.md)
 
+#### -[03. Git Flow du repo](06.%20GIT/03.%20Git%20Flow%20du%20repo.md)
+
 ### 07. Espace de travail
 
 #### -[01. Problèmes techniques](01.%20Problèmes%20techniques.md)
