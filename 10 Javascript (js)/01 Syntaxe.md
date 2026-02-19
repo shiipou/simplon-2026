@@ -3,7 +3,7 @@
 
 JavaScript est un **langage de programmation** utilisé pour rendre les pages web interactives.
 
-	 **Caractéristiques principales :**
+**Caractéristiques principales :**
 
 - **Langage interprété** (exécuté par le navigateur)
     
