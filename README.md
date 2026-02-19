@@ -16,7 +16,7 @@
 ### 03. Langage CSS
 
 #### -[01 Bonne pratiques](01%20Bonne%20pratiques.md)
-#### -[02. Pseudoclasses](02.%20Pseudoclasses.md)
+#### -[02. Pseudoclasses](#-02-pseudoclasses)
 #### -[03. Sélecteurs](03.%20Sélecteurs.md)
 
 ### 04. Obsidian
