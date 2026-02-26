@@ -16,14 +16,14 @@
 ### 03. Langage CSS
 
 #### -[01 Bonne pratiques](01%20Bonne%20pratiques.md)
-#### -[02. Pseudoclasses](02.%20Pseudoclasses.md)
+#### -[02. Pseudoclasses](03.%20Langage%20CSS/02.%20Pseudoclasses.md)
 #### -[03. Sélecteurs](03.%20Sélecteurs.md)
 
 ### 04. Obsidian
 
-#### -[01. Base Obsidian](01.%20Base%20Obsidian.md)
-#### -[02. Configuration](02.%20Configuration.md)
-#### -[03. Plugins](03.%20Plugins.md)
+#### -[01. Base Obsidian](04.%20Obsidian/01.%20Base%20Obsidian.md)
+#### -[02. Configuration](04.%20Obsidian/02.%20Configuration.md)
+#### -[03. Plugins](04.%20Obsidian/03.%20Plugins.md)
 
 ### 05. Linux
 
@@ -55,7 +55,7 @@
 
 ### 09. VS Code
 
-#### -[01. Raccourcis VSCode](01.%20Raccourcis%20VSCode.md)
+#### -[01. Raccourcis VSCode](09.%20VS%20Code/01.%20Raccourcis%20VSCode.md)
 
 ### 10. Javascript (js)
 
@@ -66,3 +66,16 @@
 
 ### 11. Veille techno
 
+#### - [01. SonarCube](11.%20Veille%20techno/01%20.%20SonarCube.md)
+
+### 12. Java
+
+#### -[01. Architecture de Java](12.%20Java/01.%20Architecture%20de%20Java.md)
+#### -[02. Les types](02.%20Les%20types)
+#### -[03. Les variables](03.%20Les%20variables)
+#### -[04. Les conditions](04.%20Les%20conditions)
+#### -[05. Les boucles](05.%20Les%20boucles)
+#### -[06. Les methods](06.%20Les%20methods)
+#### -[07. Entrées utilisateurs](07.%20Entrées%20utilisateurs)
+#### -[08. Gérer un nombre aléatoire](08.%20Gérer%20un%20nombre%20aléatoire)
+#### -[09. Créer et structurer une class en java](09.%20Créer%20et%20structurer%20une%20class%20en%20java)
