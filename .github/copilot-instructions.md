@@ -42,6 +42,9 @@
 
 ## “Build / test / run” for this repo
 There is no application to compile. Validation is documentation-focused:
+1. **Documentation quality check (manual)**
+   - You'll review documentation to ensure everything is clean and ensure every changes is mandatory and understandable for anybody.
+   - You'll check if the documentation is related to the issue.
 1. **Link validation (manual)**
    - After changing paths/titles, verify links from `README.md` open correctly on GitHub.
    - Prefer relative links; remember that GitHub URLs require encoding spaces as `%20`.
