@@ -33,8 +33,8 @@
 
 ### 06. GIT
 
-#### -[01. Commande GIT](01.%20Commande%20GIT.md)
-#### -[02. Fonctionnement de GIT](02.%20Fonctionnement%20de%20GIT.md)
+#### -[01. Commande GIT](06.%20GIT/01.%20Commande%20GIT.md)
+#### -[02. Fonctionnement de GIT](06.%20GIT/02.%20Fonctionnement%20de%20GIT.md)
 #### -[03. Git Flow du repo](06.%20GIT/03.%20Git%20Flow%20du%20repo.md)
 #### -[04. Résoudre ses conflits sur Git](06.%20GIT/04.%20Résoudre%20ses%20conflits%20sur%20Git.md)
 
@@ -66,7 +66,7 @@
 
 ### 11. Veille techno
 
-#### - [01. SonarCube](11.%20Veille%20techno/01%20.%20SonarCube.md)
+#### -[01. SonarCube](11.%20Veille%20techno/01.%20SonarCube.md)
 
 ### 12. Java
 
