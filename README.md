@@ -27,9 +27,9 @@
 
 ### 05. Linux
 
-#### -[01. Commandes Linux](01.%20Commandes%20Linux.md)
-#### -[02. Concept Linux](02.%20Concept%20Linux.md)
-#### -[03. Installer Linux](03.%20Installer%20Linux.md)
+#### -[01. Commandes Linux](05.%20Linux/01.%20Commandes%20Linux.md)
+#### -[02. Concept Linux](05.%20Linux/02.%20Concept%20Linux.md)
+#### -[03. Installer Linux](05.%20Linux/03.%20Installer%20Linux.md)
 
 ### 06. GIT
 
@@ -59,7 +59,7 @@
 
 ### 10. Javascript (js)
 
-#### -[01. Syntaxe](01.%20Syntaxe.md)
+#### -[01. Syntaxe](10.%20Javascript%20(js)/01.%20Syntaxe.md)
 #### -[02. Fetch](10.%20Javascript%20(js)/02.%20Fetch.md)
 #### -[03. Manipulation DOM](03.%20Manipulation%20DOM.md)
 #### -[04. Promise](04.%20Promise.md)
