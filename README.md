@@ -68,12 +68,12 @@
 
 ### 12. Java
 
-#### -[01. Architecture de Java](12.%20Java/01.%20Architecture%20de%20Java)
-#### -[02. Les types](12.%20Java/02.%20Les%20types)
-#### -[03. Les variables](12.%20Java/03.%20Les%20variables)
-#### -[04. Les conditions](04.%20Les%20conditions)
-#### -[05. Les boucles](12.%20Java/05.%20Les%20boucles)
-#### -[06. Les methods](12.%20Java/06.%20Les%20methods)
-#### -[07. Entrées utilisateurs](12.%20Java/07.%20Entrées%20utilisateurs)
-#### -[08. Gérer un nombre aléatoire](12.%20Java/08.%20Gérer%20un%20nombre%20aléatoire)
-#### -[09. Créer et structurer une class en java](12.%20Java/09.%20Créer%20et%20structurer%20une%20class%20en%20java)
+#### -[01. Architecture de Java](12.%20Java/01.%20Architecture%20de%20Java.md)
+#### -[02. Les types](12.%20Java/02.%20Les%20types.md)
+#### -[03. Les variables](12.%20Java/03.%20Les%20variables.md)
+#### -[04. Les conditions](04.%20Les%20conditions.md)
+#### -[05. Les boucles](12.%20Java/05.%20Les%20boucles.md)
+#### -[06. Les methods](12.%20Java/06.%20Les%20methods.md)
+#### -[07. Entrées utilisateurs](12.%20Java/07.%20Entrées%20utilisateurs.md)
+#### -[08. Gérer un nombre aléatoire](12.%20Java/08.%20Gérer%20un%20nombre%20aléatoire.md)
+#### -[09. Créer et structurer une class en java](12.%20Java/09.%20Créer%20et%20structurer%20une%20class%20en%20java.md)
