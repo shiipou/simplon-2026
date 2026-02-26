@@ -71,7 +71,7 @@
 #### -[01. Architecture de Java](01.%20Architecture%20de%20Java)
 #### -[02. Les types](02.%20Les%20types)
 #### -[03. Les variables](03.%20Les%20variables)
-#### -[04. Les conditions](04.%20Les%20conditions)
+#### -[04. Les conditions](04.%20Les%20conditions.md)
 #### -[05. Les boucles](05.%20Les%20boucles)
 #### -[06. Les methods](06.%20Les%20methods)
 #### -[07. Entrées utilisateurs](07.%20Entrées%20utilisateurs)
