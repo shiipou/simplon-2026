@@ -24,25 +24,25 @@ Nous avons établi une convention de nommage pour nos documents, que vous retrou
 
 Pour nommer les dossiers, Veuillez utiliser un nombre sur 2 caractères puis un point avant de mettre votre nom.
 
->[!info]
->Dans le cas ou plusieurs dossiers seront créés la même semaine, le nombre à mettre devant votre dossier vous sera donné pendant le sprint review.
+> [!INFO]
+> Dans le cas ou plusieurs dossiers seront créés la même semaine, le nombre à mettre devant votre dossier vous sera donné pendant le sprint review.
 
 Voici un exemple de nommage effectué sur ce dépôt :
 
->[!example] 
->Pour le dossier traitant du HTML, on a la convention suivante :
->		- 02. Langage HTML
+> [!INFO] Example
+> Pour le dossier traitant du HTML, on a la convention suivante :
+>	- 02. Langage HTML
 
 ### 🗒️ Nommage des fichiers
 
 Pour nommer les fichier, Veuillez utiliser un nombre sur 2 caractères puis un point avant de mettre votre nom.
 Voici un exemple de nommage effectué sur ce dépôt :
 
->[!info]
+> [!INFO]
 > Le nombre à mettre devant votre fichier vous sera donné pendant le sprint review.
 
->[!example] 
->Pour le fichier traitant des balises HTML, on a le fichier suivant dans le dossier 02. Langage HTML :
+> [!INFO] Example
+> Pour le fichier traitant des balises HTML, on a le fichier suivant dans le dossier 02. Langage HTML :
 >		- 01. Les balises
 
 ## ✅- Faire les reviews avant de commencer une tâche 
