@@ -3,21 +3,21 @@
 ## Table des matières
 
 ### 01. Méthodes de recherche sur l'internet
-#### -[01 Structurer sa recherche](01%20Structurer%20sa%20recherche.md)
+#### -[01. Structurer sa recherche](01.%20Méthodes%20de%20recherche%20sur%20l'internet/01.%20Structurer%20sa%20recherche.md)
 #### -[02. Opérateur de recherche](01.%20Méthodes%20de%20recherche%20sur%20l'internet/02.%20Opérateur%20de%20recherche.md)
-#### -[03. Filtres de recherche](03.%20Filtres%20de%20recherche.md)
+#### -[03. Filtres de recherche](01.%20Méthodes%20de%20recherche%20sur%20l'internet/03.%20Filtres%20de%20recherche.md)
 
 ### 02. Langage HTML
 
-#### -[01. Attributs](01.%20Attributs.md)
-#### -[02. HTML Sémantique](02.%20HTML%20Sémantique.md)
-#### -[03. Les balises](03.%20Les%20balises.md)
+#### -[01. HTML Sémantique](02.%20Langage%20HTML/01.%20HTML%20Sémantique.md)
+#### -[02. Attributs](02.%20Langage%20HTML/02.%20Attributs.md)
+#### -[03. Les balises](02.%20Langage%20HTML/03.%20Les%20balises.md)
 
 ### 03. Langage CSS
 
-#### -[01 Bonne pratiques](01%20Bonne%20pratiques.md)
+#### -[01. Bonne pratique CSS](03.%20Langage%20CSS/01.%20Bonne%20pratique%20CSS.md)
 #### -[02. Pseudoclasses](03.%20Langage%20CSS/02.%20Pseudoclasses.md)
-#### -[03. Sélecteurs](03.%20Sélecteurs.md)
+#### -[03. Sélecteurs](03.%20Langage%20CSS/03.%20Sélecteurs.md)
 
 ### 04. Obsidian
 
@@ -27,20 +27,20 @@
 
 ### 05. Linux
 
-#### -[01. Commandes Linux](01.%20Commandes%20Linux.md)
-#### -[02. Concept Linux](02.%20Concept%20Linux.md)
-#### -[03. Installer Linux](03.%20Installer%20Linux.md)
+#### -[01. Commandes Linux](05.%20Linux/01.%20Commandes%20Linux.md)
+#### -[02. Concept Linux](05.%20Linux/02.%20Concept%20Linux.md)
+#### -[03. Installer Linux](05.%20Linux/03.%20Installer%20Linux.md)
 
 ### 06. GIT
 
-#### -[01. Commande GIT](01.%20Commande%20GIT.md)
-#### -[02. Fonctionnement de GIT](02.%20Fonctionnement%20de%20GIT.md)
+#### -[01. Commande GIT](06.%20GIT/01.%20Commande%20GIT.md)
+#### -[02. Fonctionnement de GIT](06.%20GIT/02.%20Fonctionnement%20de%20GIT.md)
 #### -[03. Git Flow du repo](06.%20GIT/03.%20Git%20Flow%20du%20repo.md)
 #### -[04. Résoudre ses conflits sur Git](06.%20GIT/04.%20Résoudre%20ses%20conflits%20sur%20Git.md)
 
 ### 07. Espace de travail
 
-#### -[01. Problèmes techniques](01.%20Problèmes%20techniques.md)
+#### -[01. Problèmes techniques](07.%20Espace%20de%20travail/01.%20Problèmes%20techniques.md)
 
 ### 08. Markdown
 
@@ -59,14 +59,14 @@
 
 ### 10. Javascript (js)
 
-#### -[01. Syntaxe](01.%20Syntaxe.md)
+#### -[01. Syntaxe](10.%20Javascript%20(js)/01.%20Syntaxe.md)
 #### -[02. Fetch](10.%20Javascript%20(js)/02.%20Fetch.md)
-#### -[03. Manipulation DOM](03.%20Manipulation%20DOM.md)
-#### -[04. Promise](04.%20Promise.md)
+#### -[03. Manipulation DOM](10.%20Javascript%20(js)/03.%20Manipulation%20DOM.md)
+#### -[04. Promise](10.%20Javascript%20(js)/04.%20Promise.md)
 
 ### 11. Veille techno
 
-#### - [01. SonarCube](11.%20Veille%20techno/01%20.%20SonarCube.md)
+#### -[01. SonarCube](11.%20Veille%20techno/01.%20SonarCube.md)
 
 ### 12. Java
 
