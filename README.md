@@ -67,20 +67,21 @@
 #### -[04. Promise](10.%20Javascript%20(js)/04.%20Promise.md)
 
 ### 11. Veille techno
-#### -[02. Quarkus](11.%20Veille%20techno/02.%20Quarkus.md)
 
 #### -[01. SonarCube](11.%20Veille%20techno/01.%20SonarCube.md)
+#### -[02. Quarkus](11.%20Veille%20techno/02.%20Quarkus.md)
 
 #### -[03. GraphQL](11.%20Veille%20techno/03.%20GraphQL.md)
 
 ### 12. Java
 
 #### -[01. Architecture de Java](12.%20Java/01.%20Architecture%20de%20Java.md)
-#### -[02. Les types](12.%20Java/02.%20Les%20types)
-#### -[03. Les variables](12.%20Java/03.%20Les%20variables)
-#### -[04. Les conditions](12.%20Java/04.%20Les%20conditions)
-#### -[05. Les boucles](12.%20Java/05.%20Les%20boucles)
-#### -[06. Les methods](12.%20Java/06.%20Les%20methods)
-#### -[07. Entrées utilisateurs](12.%20Java/07.%20Entrées%20utilisateurs)
-#### -[08. Gérer un nombre aléatoire](12.%20Java/08.%20Gérer%20un%20nombre%20aléatoire)
-#### -[09. Créer et structurer une class en java](12.%20Java/09.%20Créer%20et%20structurer%20une%20class%20en%20java)
+#### -[02. Les types](02.%20Les%20types)
+#### -[03. Les variables](03.%20Les%20variables)
+#### -[04. Les conditions](04.%20Les%20conditions)
+#### -[05. Les boucles](05.%20Les%20boucles)
+#### -[06. Les methods](06.%20Les%20methods)
+#### -[07. Entrées utilisateurs](07.%20Entrées%20utilisateurs)
+#### -[08. Gérer un nombre aléatoire](08.%20Gérer%20un%20nombre%20aléatoire)
+#### -[09. Créer et structurer une class en java](09.%20Créer%20et%20structurer%20une%20class%20en%20java)
+#### -[10. Héritage et Polymorphisme](12.%20Java/10.%20Héritage%20et%20Polymorphisme.md)
