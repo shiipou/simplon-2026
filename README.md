@@ -21,9 +21,11 @@
 
 ### 04. Obsidian
 
-#### -[01. Base Obsidian](04.%20Obsidian/01.%20Base%20Obsidian.md)
+
+#### -[01. Base Obsidian](01.%20Base%20Obsidian.md)
 #### -[02. Configuration](04.%20Obsidian/02.%20Configuration.md)
 #### -[03. Plugins](04.%20Obsidian/03.%20Plugins.md)
+
 
 ### 05. Linux
 
@@ -65,6 +67,7 @@
 #### -[04. Promise](10.%20Javascript%20(js)/04.%20Promise.md)
 
 ### 11. Veille techno
+#### -[02. Quarkus](11.%20Veille%20techno/02.%20Quarkus.md)
 
 #### -[01. SonarCube](11.%20Veille%20techno/01.%20SonarCube.md)
 
