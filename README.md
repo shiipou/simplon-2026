@@ -3,7 +3,7 @@
 ## Table des matières
 
 ### 01. Méthodes de recherche sur l'internet
-#### -[01 Structurer sa recherche](01%20Structurer%20sa%20recherche.md)
+#### -[01. Structurer sa recherche](01%20Structurer%20sa%20recherche.md)
 #### -[02. Opérateur de recherche](01.%20Méthodes%20de%20recherche%20sur%20l'internet/02.%20Opérateur%20de%20recherche.md)
 #### -[03. Filtres de recherche](03.%20Filtres%20de%20recherche.md)
 
@@ -15,7 +15,7 @@
 
 ### 03. Langage CSS
 
-#### -[01 Bonne pratiques](01%20Bonne%20pratiques.md)
+#### -[01. Bonnes pratiques](03.%20Langage%20CSS/01.%20Bonnes%20pratiques.md)
 #### -[02. Pseudoclasses](03.%20Langage%20CSS/02.%20Pseudoclasses.md)
 #### -[03. Sélecteurs](03.%20Sélecteurs.md)
 
