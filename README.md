@@ -82,5 +82,3 @@
 
 ### 13. UML
 #### -[03. Diagramme d'activités](13.%20UML/03.%20Diagramme%20d'activités.md)
-
-
