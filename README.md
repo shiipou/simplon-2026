@@ -65,7 +65,7 @@
 #### -[02. Fetch](10.%20Javascript%20(js)/02.%20Fetch.md)
 
 #### -[03. Manipulation DOM](03.%20Manipulation%20DOM.md)
-#### -[04. Promise et async](04.%20Promise%20et%20async.md)
+#### -[04. Promise et async](10.%20Javascript%20(js)/04.%20Promise%20et%20async.md)
 
 ### 11. Veille techno
 #### -[02. Quarkus](11.%20Veille%20techno/02.%20Quarkus.md)
