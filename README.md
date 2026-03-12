@@ -70,7 +70,6 @@
 #### -[02. Quarkus](11.%20Veille%20techno/02.%20Quarkus.md)
 
 #### -[01. SonarCube](11.%20Veille%20techno/01.%20SonarCube.md)
-
 #### -[03. GraphQL](11.%20Veille%20techno/03.%20GraphQL.md)
 
 ### 12. Java
