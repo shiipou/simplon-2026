@@ -3,7 +3,7 @@
 ## Table des matières
 
 ### 01. Méthodes de recherche sur l'internet
-#### -[01. Structurer sa recherche](01%20Structurer%20sa%20recherche.md)
+#### -[01. Structurer sa recherche](01.%20M%C3%A9thodes%20de%20recherche%20sur%20l'internet/01.%20Structurer%20sa%20recherche.md)
 #### -[02. Opérateur de recherche](01.%20Méthodes%20de%20recherche%20sur%20l'internet/02.%20Opérateur%20de%20recherche.md)
 #### -[03. Filtres de recherche](03.%20Filtres%20de%20recherche.md)
 
