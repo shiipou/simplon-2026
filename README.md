@@ -3,6 +3,7 @@
 ## Table des matières
 
 ### 01. Méthodes de recherche sur l'internet
+
 #### -[01. Structurer sa recherche](01.%20Méthodes%20de%20recherche%20sur%20l'internet/01.%20Structurer%20sa%20recherche.md)
 #### -[02. Opérateur de recherche](01.%20Méthodes%20de%20recherche%20sur%20l'internet/02.%20Opérateur%20de%20recherche.md)
 #### -[03. Filtres de recherche](01.%20Méthodes%20de%20recherche%20sur%20l'internet/03.%20Filtres%20de%20recherche.md)
@@ -59,17 +60,15 @@
 
 ### 10. Javascript (js)
 
-
 #### -[01. Syntaxe](10.%20Javascript%20(js)/01.%20Syntaxe.md)
-
 #### -[02. Fetch](10.%20Javascript%20(js)/02.%20Fetch.md)
 #### -[03. Manipulation DOM](10.%20Javascript%20(js)/03.%20Manipulation%20DOM.md)
 #### -[04. Promise](10.%20Javascript%20(js)/04.%20Promise.md)
 
 ### 11. Veille techno
-#### -[02. Quarkus](11.%20Veille%20techno/02.%20Quarkus.md)
 
 #### -[01. SonarCube](11.%20Veille%20techno/01.%20SonarCube.md)
+#### -[02. Quarkus](11.%20Veille%20techno/02.%20Quarkus.md)
 #### -[03. GraphQL](11.%20Veille%20techno/03.%20GraphQL.md)
 
 ### 12. Java
@@ -84,3 +83,8 @@
 #### -[08. Gérer un nombre aléatoire](12.%20Java/08.%20Gérer%20un%20nombre%20aléatoire.md)
 #### -[09. Créer et structurer une class en java](12.%20Java/09.%20Créer%20et%20structurer%20une%20class%20en%20java.md)
 #### -[14. Stream](12.%20Java/14.%20Stream.md)
+
+### 15. Architecture
+
+#### -[01. MVC](15.%20Architecture/01.%20MVC.md)
+
