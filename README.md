@@ -63,13 +63,15 @@
 #### -[01. Syntaxe](10.%20Javascript%20(js)/01.%20Syntaxe.md)
 #### -[02. Fetch](10.%20Javascript%20(js)/02.%20Fetch.md)
 #### -[03. Manipulation DOM](10.%20Javascript%20(js)/03.%20Manipulation%20DOM.md)
-#### -[04. Promise](10.%20Javascript%20(js)/04.%20Promise.md)
+#### -[04. Promise et async](10.%20Javascript%20(js)/04.%20Promise%20et%20async.md)
 
 ### 11. Veille techno
 
 #### -[01. SonarCube](11.%20Veille%20techno/01.%20SonarCube.md)
 #### -[02. Quarkus](11.%20Veille%20techno/02.%20Quarkus.md)
 #### -[03. GraphQL](11.%20Veille%20techno/03.%20GraphQL.md)
+#### -[05. Veille local first](11.%20Veille%20techno/05.%20Veille%20local%20first.md)
+#### -[06. Sécurité-serveur](11.%20Veille%20techno/06.%20Sécurité-serveur.md)
 
 ### 12. Java
 
