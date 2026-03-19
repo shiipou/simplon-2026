@@ -21,11 +21,9 @@
 
 ### 04. Obsidian
 
-
 #### -[01. Base Obsidian](01.%20Base%20Obsidian.md)
 #### -[02. Configuration](04.%20Obsidian/02.%20Configuration.md)
 #### -[03. Plugins](04.%20Obsidian/03.%20Plugins.md)
-
 
 ### 05. Linux
 
@@ -63,11 +61,11 @@
 
 #### -[01. Syntaxe](10.%20Javascript%20(js)/01.%20Syntaxe.md)
 #### -[02. Fetch](10.%20Javascript%20(js)/02.%20Fetch.md)
-
 #### -[03. Manipulation DOM](03.%20Manipulation%20DOM.md)
-#### -[04. Promise et async](04.%20Promise%20et%20async.md)
+#### -[04. Promise et async](10.%20Javascript%20(js)/04.%20Promise%20et%20async.md)
 
 ### 11. Veille techno
+
 #### -[02. Quarkus](11.%20Veille%20techno/02.%20Quarkus.md)
 
 #### -[01. SonarCube](11.%20Veille%20techno/01.%20SonarCube.md)
