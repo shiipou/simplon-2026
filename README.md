@@ -3,6 +3,7 @@
 ## Table des matières
 
 ### 01. Méthodes de recherche sur l'internet
+
 #### -[01. Structurer sa recherche](01.%20Méthodes%20de%20recherche%20sur%20l'internet/01.%20Structurer%20sa%20recherche.md)
 #### -[02. Opérateur de recherche](01.%20Méthodes%20de%20recherche%20sur%20l'internet/02.%20Opérateur%20de%20recherche.md)
 #### -[03. Filtres de recherche](01.%20Méthodes%20de%20recherche%20sur%20l'internet/03.%20Filtres%20de%20recherche.md)
@@ -21,11 +22,9 @@
 
 ### 04. Obsidian
 
-
-#### -[01. Base Obsidian](01.%20Base%20Obsidian.md)
+#### -[01. Base Obsidian](04.%20Obsidian/01.%20Base%20Obsidian.md)
 #### -[02. Configuration](04.%20Obsidian/02.%20Configuration.md)
 #### -[03. Plugins](04.%20Obsidian/03.%20Plugins.md)
-
 
 ### 05. Linux
 
@@ -64,23 +63,26 @@
 #### -[01. Syntaxe](10.%20Javascript%20(js)/01.%20Syntaxe.md)
 #### -[02. Fetch](10.%20Javascript%20(js)/02.%20Fetch.md)
 #### -[03. Manipulation DOM](10.%20Javascript%20(js)/03.%20Manipulation%20DOM.md)
-#### -[04. Promise](10.%20Javascript%20(js)/04.%20Promise.md)
+#### -[04. Promise et async](10.%20Javascript%20(js)/04.%20Promise%20et%20async.md)
 
 ### 11. Veille techno
+
 #### -[02. Quarkus](11.%20Veille%20techno/02.%20Quarkus.md)
 
 #### -[01. SonarCube](11.%20Veille%20techno/01.%20SonarCube.md)
-
 #### -[03. GraphQL](11.%20Veille%20techno/03.%20GraphQL.md)
+#### -[05. Veille local first](11.%20Veille%20techno/05.%20Veille%20local%20first.md)
+#### -[06. Sécurité-serveur](11.%20Veille%20techno/06.%20Sécurité-serveur.md)
 
 ### 12. Java
 
 #### -[01. Architecture de Java](12.%20Java/01.%20Architecture%20de%20Java.md)
-#### -[02. Les types](12.%20Java/02.%20Les%20types)
-#### -[03. Les variables](12.%20Java/03.%20Les%20variables)
-#### -[04. Les conditions](12.%20Java/04.%20Les%20conditions)
-#### -[05. Les boucles](12.%20Java/05.%20Les%20boucles)
-#### -[06. Les methods](12.%20Java/06.%20Les%20methods)
-#### -[07. Entrées utilisateurs](12.%20Java/07.%20Entrées%20utilisateurs)
-#### -[08. Gérer un nombre aléatoire](12.%20Java/08.%20Gérer%20un%20nombre%20aléatoire)
-#### -[09. Créer et structurer une class en java](12.%20Java/09.%20Créer%20et%20structurer%20une%20class%20en%20java)
+#### -[02. Les types](12.%20Java/02.%20Les%20types.md)
+#### -[03. Les variables](12.%20Java/03.%20Les%20variables.md)
+#### -[04. Les conditions](12.%20Java/04.%20Les%20conditions.md)
+#### -[05. Les boucles](12.%20Java/05.%20Les%20boucles.md)
+#### -[06. Les methods](12.%20Java/06.%20Les%20methods.md)
+#### -[07. Entrées utilisateurs](12.%20Java/07.%20Entrées%20utilisateurs.md)
+#### -[08. Gérer un nombre aléatoire](12.%20Java/08.%20Gérer%20un%20nombre%20aléatoire.md)
+#### -[09. Créer et structurer une class en java](12.%20Java/09.%20Créer%20et%20structurer%20une%20class%20en%20java.md)
+#### -[14. Stream](12.%20Java/14.%20Stream.md)
