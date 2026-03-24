@@ -39,7 +39,7 @@ jobs:
         run: |
           rm -rf quartz-build/content/*
           cp README.md quartz-build/content/
-          for dir in $(find . -maxdepth 1 -type d ! -name '.*'); do
+          find . -maxdepth 1 -type d ! -name '.*' -print0 | while IFS= read -r -d '' dir; do
             echo "Processing $dir..."
             cp -r "$dir" "quartz-build/content/"
           done
