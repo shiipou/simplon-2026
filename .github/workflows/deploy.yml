@@ -41,7 +41,7 @@ jobs:
           cp README.md quartz-build/content/
           for dir in $(find . -maxdepth 1 -type d ! -name '.*'); do
             echo "Processing $dir..."
-            cp -r $dir quartz-build/content/
+            cp -r "$dir" "quartz-build/content/"
           done
           mv quartz-build/content/README.md quartz-build/content/index.md
 
