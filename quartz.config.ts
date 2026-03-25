@@ -3,13 +3,13 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Patterns, Principles & Practices",
+    pageTitle: "Documentation collective",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
     locale: "fr-FR",
-    baseUrl: "shiipou.github.io/patterns-principles-and-practices",
+    baseUrl: "simplon2026.shiipou.fr",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
