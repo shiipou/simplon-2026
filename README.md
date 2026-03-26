@@ -67,9 +67,8 @@
 
 ### 11. Veille techno
 
-#### -[02. Quarkus](11.%20Veille%20techno/02.%20Quarkus.md)
-
 #### -[01. SonarCube](11.%20Veille%20techno/01.%20SonarCube.md)
+#### -[02. Quarkus](11.%20Veille%20techno/02.%20Quarkus.md)
 #### -[03. GraphQL](11.%20Veille%20techno/03.%20GraphQL.md)
 #### -[05. Veille local first](11.%20Veille%20techno/05.%20Veille%20local%20first.md)
 #### -[06. Sécurité-serveur](11.%20Veille%20techno/06.%20Sécurité-serveur.md)
@@ -85,4 +84,5 @@
 #### -[07. Entrées utilisateurs](12.%20Java/07.%20Entrées%20utilisateurs.md)
 #### -[08. Gérer un nombre aléatoire](12.%20Java/08.%20Gérer%20un%20nombre%20aléatoire.md)
 #### -[09. Créer et structurer une class en java](12.%20Java/09.%20Créer%20et%20structurer%20une%20class%20en%20java.md)
+#### -[10. Héritage et Polymorphisme](12.%20Java/10.%20Héritage%20et%20Polymorphisme.md)
 #### -[14. Stream](12.%20Java/14.%20Stream.md)
