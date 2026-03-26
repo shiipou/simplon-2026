@@ -26,21 +26,21 @@ Il a été créer en 2007 , il propose une interface web et il embarque trente-c
 
 **Duplication** => % de code qui est dupliquer dans le projet ( ex : deux fonctions qui font la même chose)
 
-![](../Pasted%20image%2020260210184011.png)
+![](assets/Pasted%20image%2020260210184011.png)
 
 ---
 **Les issues :
 
 Les issues peuvent être trier par sévérité afin de pouvoir régler les issues les plus urgentes en priorité.
 
-![](../Pasted%20image%2020260210184537.png)
+![](assets/Pasted%20image%2020260210184537.png)
 
 ---
 **Détail d'une issue :
 
 L'issue ce présente comme ça , on peut y retrouver le temps d'éffort, la/les lignes affectées mais aussi différentes informations comme comment la fixer et qu'elle est le problème
 
-![](../Pasted%20image%2020260210185900.png)
+![](assets/Pasted%20image%2020260210185900.png)
 
 ---
 
@@ -48,7 +48,7 @@ L'issue ce présente comme ça , on peut y retrouver le temps d'éffort, la/les 
 
 C'est un exemple d'un fix d'une issue proposé par Sonar , elle met en avant la complexité du code et comment il pourrait être redécoupé
 
-![](../Pasted%20image%2020260210190206.png)
+![](assets/Pasted%20image%2020260210190206.png)
 
 ---
 **Rapport de sécurité :
@@ -56,14 +56,14 @@ C'est un exemple d'un fix d'une issue proposé par Sonar , elle met en avant la 
 Sonar propose aussi un volet sécurité, il permet de voir les vulnérabilités connu et qui pourraient affecté le code.
 Sonar s'appuie sur ça propre base de données en matière de faille mais aussi sur des bases comme OWASP (https://owasp.org/)
 
-![](../Pasted%20image%2020260210184659.png)
+![](assets/Pasted%20image%2020260210184659.png)
 
 ---
 **Configuration des règles :
 
 On peut aussi générer des règles afin de mieux encadrer les éventuels règles qui serait trop permissif ou inexistant dans Sonar
 
-![](../Pasted%20image%2020260210184831.png)
+![](assets/Pasted%20image%2020260210184831.png)
 
 ---
 
@@ -71,7 +71,7 @@ On peut aussi générer des règles afin de mieux encadrer les éventuels règle
 
 Sonar est souvent utiliser pour tourner dans les pipelines CI/CD de git , il fait l'analyse du code mais aussi c'est lui qui run les tests afin de vérifier le coverage du code , il peut donc sortir une analyse directement sur la PR ( pull request ) de l'auteur.
 
-![](../Pasted%20image%2020260210134011.png)
+![](assets/Pasted%20image%2020260210134011.png)
 
 #### Source : 
 
