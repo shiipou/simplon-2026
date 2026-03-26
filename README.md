@@ -67,9 +67,8 @@
 
 ### 11. Veille techno
 
-#### -[02. Quarkus](11.%20Veille%20techno/02.%20Quarkus.md)
-
 #### -[01. SonarCube](11.%20Veille%20techno/01.%20SonarCube.md)
+#### -[02. Quarkus](11.%20Veille%20techno/02.%20Quarkus.md)
 #### -[03. GraphQL](11.%20Veille%20techno/03.%20GraphQL.md)
 #### -[05. Veille local first](11.%20Veille%20techno/05.%20Veille%20local%20first.md)
 #### -[06. Sécurité-serveur](11.%20Veille%20techno/06.%20Sécurité-serveur.md)
