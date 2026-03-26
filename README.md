@@ -84,4 +84,5 @@
 #### -[07. Entrées utilisateurs](12.%20Java/07.%20Entrées%20utilisateurs.md)
 #### -[08. Gérer un nombre aléatoire](12.%20Java/08.%20Gérer%20un%20nombre%20aléatoire.md)
 #### -[09. Créer et structurer une class en java](12.%20Java/09.%20Créer%20et%20structurer%20une%20class%20en%20java.md)
+#### -[10. Héritage et Polymorphisme](12.%20Java/10.%20Héritage%20et%20Polymorphisme.md)
 #### -[14. Stream](12.%20Java/14.%20Stream.md)
