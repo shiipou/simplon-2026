@@ -90,8 +90,10 @@
 
 ### 13. UML
 
+#### -[02. Diagramme de cas d'utilisation](13.%20UML/02.%20Diagramme%20de%20cas%20d'utilisation.md)
 #### -[03. Diagramme d'activités](13.%20UML/03.%20Diagramme%20d'activités.md)
 
 ### 15. Architecture
 
 #### -[01. MVC](15.%20Architecture/01.%20MVC.md)
+
