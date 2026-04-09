@@ -1,7 +1,8 @@
 # Le DevOps
 ---
-## Historique (avant 2007)
+## Historique
 
+### Avant 2007
 
 - Les équipes de **développement** et **opérationnelles (infrastructure/système)** avaient des objectifs distincts (souvent opposés).
 - Elles avaient leur propre fonctionnement, leurs propres indicateurs de performance.
@@ -11,7 +12,7 @@
 => Les équipes de **développement** et **opérationnelles** étaient <font style="color:red">cloisonnées</font>.
 
 ---
-## Historique (vers 2007)
+### Vers 2007
 
 La solution ? **DevOps**, qui comble le fossé entre ces équipes afin qu'elles travaillent de manière cohérente. La méthodologie rassemble les compétences, les processus et les outils des équipes de développement et opérationnelles.
 
@@ -21,8 +22,7 @@ La solution ? **DevOps**, qui comble le fossé entre ces équipes afin qu'elles
 > [!important]
 > **DevOps** :  Ensemble de **pratiques** et **d'outils**, ainsi qu'une **philosophie culturelle**.
 > 
->  **But** : Automatiser et d'intégrer les processus entre les équipes de développement et opérationnelles. En mettant l'accent sur l'autonomisation des équipes, la communication et la collaboration transverses ainsi que l'automatisation technologique.
-
+>  **But** : Automatiser et intégrer les processus entre les équipes de développement et opérationnelles. En mettant l'accent sur l'autonomisation des équipes, la communication et la collaboration transverses ainsi que l'automatisation technologique.
 
 ---
 ## Principes DevOps
@@ -76,6 +76,7 @@ La solution ? **DevOps**, qui comble le fossé entre ces équipes afin qu'elles
 - Réduit les erreurs humaines
 - Assure une cohérence pour la mise en production
 - Minimise le temps entre la conception, les tests et les lancement
+
 ---
 ## Découverte Docker et Jenkins
 
@@ -84,10 +85,11 @@ La solution ? **DevOps**, qui comble le fossé entre ces équipes afin qu'elles
 ---  
 ## Conclusion
 
-Le **DevOps** à été crée pour fluidifier le travail. L’idée est de mieux connecter les équipes de développement et les équipes opérationnelles pour livrer plus vite et garantir une meilleure qualité de code. En rapprochant ces deux métiers qui avançaient souvent chacun de leur côté, la chaîne logicielle devient un **cycle continu** plus réactif et plus efficace.
+Le **DevOps** a été crée pour fluidifier le travail. L’idée est de mieux connecter les équipes de développement et les équipes opérationnelles pour livrer plus vite et garantir une meilleure qualité de code. En rapprochant ces deux métiers, qui avançaient souvent chacun de leur côté, la chaîne logicielle devient un **cycle continu** plus réactif et plus efficace.
 
 ---
 ## Références :
+
 https://www.atlassian.com/fr/devops
 https://www.redhat.com/fr/topics/devops/what-cicd-pipeline
 
