@@ -1,5 +1,5 @@
 
-![[image 8.webp]]
+![](assets/image 8.webp)
 # C’est quoi une API ?
 ### Rappel rapide
 
@@ -10,7 +10,7 @@ Quand vous voulez des infos, vous passez par l’API.
 Elle va chercher ce dont vous avez besoin et vous le ramène.”
 
 
-![[image 1.webp]]
+![](assets/image 1.webp)
 # Le problème avec les APIs classiques
 ### REST 
 Jusqu’ici, la façon la plus répandue de faire des APIs, c’est ce qu’on appelle REST.
@@ -28,7 +28,7 @@ Vous devez commander deux menus séparés, et faire deux allers-retours en cuisi
 C’est l’under-fetching. Résultat : des applications plus lentes, qui consomment plus de données mobiles, et du code plus compliqué.”
 
 
-![[image 2.webp]]
+![](assets/image 2.webp)
 # GraphQL
 ### la solution 
 GraphQL, c’est la réponse à ce problème.
@@ -43,7 +43,7 @@ GraphQL a été créé par Facebook en 2012, parce qu’ils avaient exactement c
 Ils l’ont rendu public en 2015, et depuis, des entreprises comme GitHub, Shopify ou Airbnb l’utilisent.”
 
 
-![[image 3.webp]]
+![](assets/image 3.webp)
 # Comment ça marche concrètement ? 
  Je vais vous montrer à quoi ça ressemble, même sans être développeur. 
  Imaginons qu’on veuille afficher le profil d’un utilisateur dans une appli. 
@@ -53,14 +53,14 @@ Ils l’ont rendu public en 2015, et depuis, des entreprises comme GitHub, Shopi
   La requête ressemble presque à français.
 
 
-![[image 4.webp]]
+![](assets/image 4.webp)
 # Il y a trois types d’opérations en GraphQL :
 ∙ La Query : pour lire des données — comme une recherche. 
 ∙ La Mutation : pour modifier des données — créer un compte, envoyer un message. 
 ∙ La Subscription : pour recevoir des mises à jour en temps réel .
 
 
-![[image 5.webp]]
+![](assets/image 5.webp)
 # Les avantages résumés 
 Pour résumer les points forts : vous récupérez exactement ce que vous demandez , ni trop, ni trop peu. 
 Une seule adresse pour tout. 
@@ -73,8 +73,8 @@ Ce n’est pas là pour remplacer tout ce qui existe, REST a encore sa place, ma
 Voilà, j’espère que c’est un peu plus clair pour vous. Et si vous retenez une seule chose : GraphQL, c’est commander à la carte plutôt que de prendre un menu imposé.”
 
 
-![[image 6.webp]]
+![](assets/image 6.webp)
 
 
 
-![[image 7.webp]]
+![](assets/image 7.webp)
