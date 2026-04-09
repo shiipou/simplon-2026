@@ -6,7 +6,7 @@
 - Les équipes de **développement** et **opérationnelles (infrastructure/système)** avaient des objectifs distincts (souvent opposés).
 - Elles avaient leur propre fonctionnement, leurs propres indicateurs de performance.
 - Elles se préoccupaient de leur périmètre.
-- Elle communiquaient rarement
+- Elles communiquaient rarement
 
 => Les équipes de **développement** et **opérationnelles** étaient <font style="color:red">cloisonnées</font>.
 
