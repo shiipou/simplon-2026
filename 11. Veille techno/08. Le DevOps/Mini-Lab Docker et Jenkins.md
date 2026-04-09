@@ -7,6 +7,7 @@ Bienvenue dans ce mini lab dédié à la découverte de Docker et Jenkins, ce do
 [[#Création de votre Codespace]]
 [[#Création de conteneurs Docker]]
 [[#Manipulation de Jenkins]]
+
 ## Création de votre Codespace
 
 Pour créer votre Codespace (environnement intégré à GitHub ayant une utilisation de 60h/mois dans la version gratuite de GitHub), veuillez vous rendre au [lien suivant](https://github.com/codespaces)
@@ -112,7 +113,6 @@ Pour lancer votre conteneur à partir de l'image hello-java :
 docker run --name hello-java-container hello-java
 ```
 
-
 ### Conteneur Nginx
 
 Pour notre exemple, on ne va pas s'embêter à créer une image docker, on va donc prendre celle de base de Nginx en tapant la commande : 
@@ -146,13 +146,14 @@ Avant de rentrer dans notre conteneur Jenkins pour la première fois, nous auron
 docker exec -it jenkins cat /var/jenkins_home/secrets/initialAdminPassword
 ```
 
-Vous pouvez maintenant aller dans l'onglet "Ports" de votre terminal, deux lien apparaiteront, cliquez sur celui du port 8080 et vous arriverez sur la page de base de Jenkins, qui vous demandera votre mot de passe, collez le ici.
+Vous pouvez maintenant aller dans l'onglet "Ports" de votre terminal, deux liens apparaitront, cliquez sur celui du port 8080 et vous arriverez sur la page de base de Jenkins, qui vous demandera votre mot de passe, collez le ici.
 
 Une fois votre mot de passe entré, Jenkins vous proposera de créer un utilisateur, entrez donc vos informations
 
 ### Job "Hello World"
 
 Pour créer votre premier job, cliquez sur "Créer un job"
+
 ![](assets/Créer_job.png)
 
 Saisissez ensuite le nom de votre job et sélectionnez "Pipeline"
@@ -300,8 +301,8 @@ Une fois votre pipeline crée, cliquez sur "Lancer un build" en haut à gauche d
 
 ![](assets/Lancer_build.png)
 
-Vous pouvez laisser les valeurs par défaut, cela build car le test est passant !
+Vous pouvez laisser les valeurs par défaut, le build se fait car le test est passant !
 
-Vous pouvez ensuite relancer un build avec comme valeur A = 2, et B = 3 par exemple, cela ne build pas car le test est KO !
+Vous pouvez ensuite relancer un build avec comme valeur A = 2, et B = 3 par exemple, le build ne se fait pas car le test est KO !
 
 Vous pouvez ensuite tester à nouveau en laissant les valeurs par défaut et en décochant la case deploy, si vous allez dans la vue détaillée en haut à droite vous voyez que l'étape de déploiement ne s'est pas lancée.
