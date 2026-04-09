@@ -80,7 +80,7 @@
 #### -[02. Les types](12.%20Java/02.%20Les%20types.md)
 #### -[03. Les variables](12.%20Java/03.%20Les%20variables.md)
 #### -[04. Les conditions](12.%20Java/04.%20Les%20conditions.md)
-#### -[05. Les boucles](12.%20Java/05.%20Les%20boucles.md)
+#### -[05. Les Boucles](12.%20Java/05.%20Les%20Boucles.md)
 #### -[06. Les methods](12.%20Java/06.%20Les%20methods.md)
 #### -[07. Entrées utilisateurs](12.%20Java/07.%20Entrées%20utilisateurs.md)
 #### -[08. Gérer un nombre aléatoire](12.%20Java/08.%20Gérer%20un%20nombre%20aléatoire.md)
@@ -88,6 +88,11 @@
 #### -[10. Héritage et Polymorphisme](12.%20Java/10.%20Héritage%20et%20Polymorphisme.md)
 #### -[14. Stream](12.%20Java/14.%20Stream.md)
 
+### 13. UML
+
+#### -[02. Diagramme de cas d'utilisation](13.%20UML/02.%20Diagramme%20de%20cas%20d'utilisation.md)
+
 ### 15. Architecture
 
 #### -[01. MVC](15.%20Architecture/01.%20MVC.md)
+
