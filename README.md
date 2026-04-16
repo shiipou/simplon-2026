@@ -89,6 +89,9 @@
 #### -[14. Stream](12.%20Java/14.%20Stream.md)
 
 #### -[[17. Servlet & JSP]]
+
+#### -[18. ENUM](12.%20Java/18.%20ENUM.md)
+
 ### 13. UML
 
 #### -[02. Diagramme de cas d'utilisation](13.%20UML/02.%20Diagramme%20de%20cas%20d'utilisation.md)
