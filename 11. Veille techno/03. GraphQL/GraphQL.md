@@ -1,0 +1,80 @@
+
+![](assets/image 8.webp)
+# C’est quoi une API ?
+### Rappel rapide
+
+Pour comprendre GraphQL, il faut d’abord comprendre ce qu’est une API.
+Imaginez un restaurant. Vous êtes le client, la cuisine c’est le serveur qui stocke toutes les données. Et le serveur, le vrai, celui qui prend les commandes ,  c’est l’API.
+C’est lui l’intermédiaire entre vous et la cuisine.
+Quand vous voulez des infos, vous passez par l’API.
+Elle va chercher ce dont vous avez besoin et vous le ramène.”
+
+
+![](assets/image 1.webp)
+# Le problème avec les APIs classiques
+### REST 
+Jusqu’ici, la façon la plus répandue de faire des APIs, c’est ce qu’on appelle REST.
+Et REST, ça fonctionne bien. Mais ça a un défaut. 
+Reprenons notre restaurant. 
+Avec REST, imaginez que la carte n’existe pas. 
+À la place, il y a des menus fixes.
+Menu numéro 1 : entrée plat. 
+Menu numéro 2 : plat dessert. 
+Vous ne pouvez pas commander juste le plat. 
+Vous prenez le menu entier, même si vous n’avez pas faim pour le reste. 
+En informatique, on appelle ça de l’over-fetching : vous recevez plus de données que ce dont vous avez besoin.
+Et parfois c’est l’inverse : vous voulez le plat ET le dessert, mais il n’y a pas de menu pour ça.
+Vous devez commander deux menus séparés, et faire deux allers-retours en cuisine. 
+C’est l’under-fetching. Résultat : des applications plus lentes, qui consomment plus de données mobiles, et du code plus compliqué.”
+
+
+![](assets/image 2.webp)
+# GraphQL
+### la solution 
+GraphQL, c’est la réponse à ce problème.
+Avec GraphQL, retour au restaurant, mais cette fois, la carte existe. 
+Vous commandez exactement ce que vous voulez. 
+Juste le plat, avec cette garniture précise, sans la sauce. 
+Et tout ça en une seule commande. 
+Concrètement, avec GraphQL, c’est le client, l’application, le téléphone, qui décide quelles données il veut recevoir.
+Pas le serveur. 
+Et tout passe par un seul endroit, une seule adresse, au lieu d’en avoir des dizaines comme avec REST. 
+GraphQL a été créé par Facebook en 2012, parce qu’ils avaient exactement ce problème : des millions d’utilisateurs sur mobile qui avaient besoin de données très précises, très vite. 
+Ils l’ont rendu public en 2015, et depuis, des entreprises comme GitHub, Shopify ou Airbnb l’utilisent.”
+
+
+![](assets/image 3.webp)
+# Comment ça marche concrètement ? 
+ Je vais vous montrer à quoi ça ressemble, même sans être développeur. 
+ Imaginons qu’on veuille afficher le profil d’un utilisateur dans une appli. 
+ Avec GraphQL, on envoie une requête, qu’on appelle une query, qui ressemble à ça :
+ Et le serveur nous répond exactement avec : le nom, l’email, et la photo. 
+ Rien de plus. Vous voyez comme c’est lisible ?
+  La requête ressemble presque à français.
+
+
+![](assets/image 4.webp)
+# Il y a trois types d’opérations en GraphQL :
+∙ La Query : pour lire des données — comme une recherche. 
+∙ La Mutation : pour modifier des données — créer un compte, envoyer un message. 
+∙ La Subscription : pour recevoir des mises à jour en temps réel .
+
+
+![](assets/image 5.webp)
+# Les avantages résumés 
+Pour résumer les points forts : vous récupérez exactement ce que vous demandez , ni trop, ni trop peu. 
+Une seule adresse pour tout. 
+L’API se documente toute seule, ce qui est un gain de temps énorme pour les développeurs. 
+Et elle évolue facilement sans casser ce qui existe déjà.
+
+ ### Conclusion 
+“GraphQL, c’est donc une façon plus moderne et plus flexible de faire communiquer une application avec ses données.
+Ce n’est pas là pour remplacer tout ce qui existe, REST a encore sa place, mais pour les projets complexes, avec beaucoup de données différentes ou plusieurs types d’écrans, c’est souvent le meilleur choix. 
+Voilà, j’espère que c’est un peu plus clair pour vous. Et si vous retenez une seule chose : GraphQL, c’est commander à la carte plutôt que de prendre un menu imposé.”
+
+
+![](assets/image 6.webp)
+
+
+
+![](assets/image 7.webp)
