@@ -1,7 +1,7 @@
 
 ## Event-Driven Architecture (EDA)
 
-![[Pasted image 20260408083914.png]]
+![[assets/Pasted image 20260408083914.png]]
 
 ---
 ## Définition
@@ -111,7 +111,7 @@ Tout ce qu'ils partagent : le nom du topic `"sinistres"` et le format de l'évé
 Le bus d'événements est un **serveur séparé** — un programme qui tourne indépendamment de toutes les applications. Son seul rôle : **recevoir des événements, les stocker, et les distribuer aux abonnés**.
 
 
-![[Pasted image 20260408083845.png]]
+![[assets/Pasted image 20260408083845.png]]
 
 ---
 ## Modèles d'EDA
@@ -129,7 +129,7 @@ Le bus d'événements est un **serveur séparé** — un programme qui tourne in
 ---
 ## Kafka — les 3 concepts clés
 
-![[Pasted image 20260408083937.png]]
+![[assets/Pasted image 20260408083937.png]]
 
 ---
 #### 1. Le topic
