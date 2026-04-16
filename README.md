@@ -73,6 +73,7 @@
 #### -[05. Veille local first](11.%20Veille%20techno/05.%20Veille%20local%20first.md)
 #### -[06. Sécurité-serveur](11.%20Veille%20techno/06.%20Sécurité-serveur.md)
 #### -[07. Presentation du langage Rust](11.%20Veille%20techno/07.%20Rust/07.%20Presentation%20du%20langage%20Rust.md)
+#### -[08. Le DevOps](11.%20Veille%20techno/08.%20Le%20DevOps/Le%20DevOps.md)
 
 #### -[09. EDA & Kafka](11.%20Veille%20techno/09.%20EDA%20&%20Kafka/Veille%20EDA%20&%20Kafka.md)
 
@@ -103,4 +104,8 @@
 ### 16. Serveurs web
 
 #### -[01. Tomcat](16.%20Serveurs%20web/01.%20Tomcat.md)
+
+### 18. Base de données
+
+#### -[01. PostgreSQL](18.%20Base%20de%20données/01.%20Postgresql.md)
 
