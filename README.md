@@ -74,7 +74,7 @@
 #### -[06. Sécurité-serveur](11.%20Veille%20techno/06.%20Sécurité-serveur.md)
 #### -[07. Presentation du langage Rust](11.%20Veille%20techno/07.%20Rust/07.%20Presentation%20du%20langage%20Rust.md)
 
-#### -[09. EDA & Kafka](obsidian://open?vault=simplon-2026&file=11.%20Veille%20techno%2F09.%20EDA%20%26%20Kafka%2FVeille%20EDA%20%26%20Kafka)
+#### -[09. EDA & Kafka](11.%20Veille%20techno/09.%20%EDA%20%26%20Kafka/Veille%20EDA%20%26%20Kafka.md)
 
 ### 12. Java
 
@@ -90,6 +90,7 @@
 #### -[10. Héritage et Polymorphisme](12.%20Java/10.%20Héritage%20et%20Polymorphisme.md)
 #### -[14. Stream](12.%20Java/14.%20Stream.md)
 
+#### -[[17. Servlet & JSP]]
 ### 13. UML
 
 #### -[02. Diagramme de cas d'utilisation](13.%20UML/02.%20Diagramme%20de%20cas%20d'utilisation.md)
@@ -98,4 +99,8 @@
 ### 15. Architecture
 
 #### -[01. MVC](15.%20Architecture/01.%20MVC.md)
+
+### 16. Serveurs web
+
+#### -[01. Tomcat](16.%20Serveurs%20web/01.%20Tomcat.md)
 
