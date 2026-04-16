@@ -74,7 +74,7 @@
 #### -[06. Sécurité-serveur](11.%20Veille%20techno/06.%20Sécurité-serveur.md)
 #### -[07. Presentation du langage Rust](11.%20Veille%20techno/07.%20Rust/07.%20Presentation%20du%20langage%20Rust.md)
 
-#### -[09. EDA & Kafka](11.%20Veille%20techno/09.%20%EDA%20%26%20Kafka/Veille%20EDA%20%26%20Kafka.md)
+#### -[09. EDA & Kafka](11.%20Veille%20techno/09.%20EDA%20&%20Kafka/Veille%20EDA%20&%20Kafka.md)
 
 ### 12. Java
 
