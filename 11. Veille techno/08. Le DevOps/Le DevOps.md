@@ -85,7 +85,7 @@ La solution ? **DevOps**, qui comble le fossé entre ces équipes afin qu'elles
 ---  
 ## Conclusion
 
-Le **DevOps** a été crée pour fluidifier le travail. L’idée est de mieux connecter les équipes de développement et les équipes opérationnelles pour livrer plus vite et garantir une meilleure qualité de code. En rapprochant ces deux métiers, qui avançaient souvent chacun de leur côté, la chaîne logicielle devient un **cycle continu** plus réactif et plus efficace.
+Le **DevOps** a été créé pour fluidifier le travail. L’idée est de mieux connecter les équipes de développement et les équipes opérationnelles pour livrer plus vite et garantir une meilleure qualité de code. En rapprochant ces deux métiers, qui avançaient souvent chacun de leur côté, la chaîne logicielle devient un **cycle continu** plus réactif et plus efficace.
 
 ---
 ## Références :
