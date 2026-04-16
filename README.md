@@ -74,6 +74,7 @@
 #### -[06. Sécurité-serveur](11.%20Veille%20techno/06.%20Sécurité-serveur.md)
 #### -[07. Presentation du langage Rust](11.%20Veille%20techno/07.%20Rust/07.%20Presentation%20du%20langage%20Rust.md)
 #### -[08. Le DevOps](11.%20Veille%20techno/08.%20Le%20DevOps/Le%20DevOps.md)
+#### -[09. Anthropic fuite](11.%20Veille%20techno/09.%20Anthropic%20fuite.md)
 
 ### 12. Java
 
