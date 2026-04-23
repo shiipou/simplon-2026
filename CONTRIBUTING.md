@@ -14,8 +14,8 @@ Dans le but de s'entrainer en anglais, nous avons convenu de rédiger les Pull R
 
 Pour chaque dossier ou fichier nouvellement crée, veuillez respecter le nom déjà présent dans le sommaire du README.md afin de rendre votre travail accessible depuis la page d'accueil. 
 
->[!warning] Attention
->En cas d'absence du nom de de vos documents dans le fichier README.md, il est à votre charge de les ajouter avant de faire votre PR.
+> [!warning]
+> En cas d'absence du nom de de vos documents dans le fichier README.md, il est à votre charge de les ajouter avant de faire votre PR.
 
 ## ✅- Convention de nommage des documents
 
@@ -24,13 +24,13 @@ Nous avons établi une convention de nommage pour nos documents, que vous retrou
 
 Pour nommer les dossiers, Veuillez utiliser un nombre sur 2 caractères puis un point avant de mettre votre nom.
 
->[!info]
->Dans le cas ou plusieurs dossiers seront créés la même semaine, le nombre à mettre devant votre dossier vous sera donné pendant le sprint review.
+> [!note]
+> Dans le cas ou plusieurs dossiers seront créés la même semaine, le nombre à mettre devant votre dossier vous sera donné pendant le sprint review.
 
 Voici un exemple de nommage effectué sur ce dépôt :
 
->[!example] 
->Pour le dossier traitant du HTML, on a la convention suivante :
+> [!tip] 
+> Pour le dossier traitant du HTML, on a la convention suivante :
 >		- 02. Langage HTML
 
 ### 🗒️ Nommage des fichiers
@@ -38,12 +38,12 @@ Voici un exemple de nommage effectué sur ce dépôt :
 Pour nommer les fichier, Veuillez utiliser un nombre sur 2 caractères puis un point avant de mettre votre nom.
 Voici un exemple de nommage effectué sur ce dépôt :
 
->[!info]
+> [!note]
 > Le nombre à mettre devant votre fichier vous sera donné pendant le sprint review.
 
->[!example] 
->Pour le fichier traitant des balises HTML, on a le fichier suivant dans le dossier 02. Langage HTML :
->		- 01. Les balises
+> [!tip] 
+> Pour le fichier traitant des balises HTML, on a le fichier suivant dans le dossier 02. Langage HTML :
+>		- 03. Les balises
 
 ## ✅- Faire les reviews avant de commencer une tâche 
 
