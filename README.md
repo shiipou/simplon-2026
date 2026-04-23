@@ -87,6 +87,7 @@
 #### -[08. Gérer un nombre aléatoire](12.%20Java/08.%20Gérer%20un%20nombre%20aléatoire)
 #### -[09. Créer et structurer une class en java](12.%20Java/09.%20Créer%20et%20structurer%20une%20class%20en%20java)
 #### -[10. Héritage et Polymorphisme](12.%20Java/10.%20Héritage%20et%20Polymorphisme.md)
+#### -[12. Cookies et Sessions](12.%20Java/12.%20Cookies%20et%20Sessions.md)
 #### -[14. Stream](12.%20Java/14.%20Stream.md)
 
 #### -[[17. Servlet & JSP]]
