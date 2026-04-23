@@ -29,14 +29,14 @@ Il a été créer en 2007 , il propose une interface web et il embarque trente-c
 ![](assets/Pasted%20image%2020260210184011.png)
 
 ---
-**Les issues :
+**Les issues :**
 
 Les issues peuvent être trier par sévérité afin de pouvoir régler les issues les plus urgentes en priorité.
 
 ![](assets/Pasted%20image%2020260210184537.png)
 
 ---
-**Détail d'une issue :
+**Détail d'une issue :**
 
 L'issue ce présente comme ça , on peut y retrouver le temps d'éffort, la/les lignes affectées mais aussi différentes informations comme comment la fixer et qu'elle est le problème
 
@@ -44,14 +44,14 @@ L'issue ce présente comme ça , on peut y retrouver le temps d'éffort, la/les 
 
 ---
 
-**Exemple - How can fix it :
+**Exemple - How can fix it :**
 
 C'est un exemple d'un fix d'une issue proposé par Sonar , elle met en avant la complexité du code et comment il pourrait être redécoupé
 
 ![](assets/Pasted%20image%2020260210190206.png)
 
 ---
-**Rapport de sécurité :
+**Rapport de sécurité :**
 
 Sonar propose aussi un volet sécurité, il permet de voir les vulnérabilités connu et qui pourraient affecté le code.
 Sonar s'appuie sur ça propre base de données en matière de faille mais aussi sur des bases comme OWASP (https://owasp.org/)
@@ -59,7 +59,7 @@ Sonar s'appuie sur ça propre base de données en matière de faille mais aussi 
 ![](assets/Pasted%20image%2020260210184659.png)
 
 ---
-**Configuration des règles :
+**Configuration des règles :**
 
 On peut aussi générer des règles afin de mieux encadrer les éventuels règles qui serait trop permissif ou inexistant dans Sonar
 
