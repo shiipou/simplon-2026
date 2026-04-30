@@ -89,7 +89,7 @@
 #### -[10. Héritage et Polymorphisme](12.%20Java/10.%20Héritage%20et%20Polymorphisme.md)
 #### -[14. Stream](12.%20Java/14.%20Stream.md)
 
-#### -[[17. Servlet & JSP]]
+#### -[17. Servlet & JSP](12.%20JAVA/17.%20Servlet%20%26%20JSP.md)
 #### -[19. Interfaces](12.%20Java/19.%20Interfaces.md)
 ### 13. UML
 
