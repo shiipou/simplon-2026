@@ -95,7 +95,7 @@
 
 #### -[[17. Servlet & JSP]]
 
-#### -[18. ENUM](12.%20Java/18.%20ENUM.md)
+#### -[18. ENUM](12.%20Java/18.%20enum.md)
 
 ### 13. UML
 
