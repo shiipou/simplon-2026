@@ -85,5 +85,5 @@
 #### -[09. Créer et structurer une class en java](12.%20Java/09.%20Créer%20et%20structurer%20une%20class%20en%20java.md)
 #### -[14. Stream](12.%20Java/14.%20Stream.md)
 
-#### -[[17. Servlet & JSP]]
+#### -[17. Servlet & JSP](12.%20Java/17.%20Servlet%20&%20JSP.md)
 
