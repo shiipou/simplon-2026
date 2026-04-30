@@ -76,6 +76,8 @@
 #### -[08. Le DevOps](11.%20Veille%20techno/08.%20Le%20DevOps/Le%20DevOps.md)
 #### -[10. Anthropic fuite](11.%20Veille%20techno/10.%20Anthropic%20fuite.md)
 
+#### -[09. EDA & Kafka](11.%20Veille%20techno/09.%20EDA%20&%20Kafka/Veille%20EDA%20&%20Kafka.md)
+
 ### 12. Java
 
 #### -[01. Architecture de Java](12.%20Java/01.%20Architecture%20de%20Java.md)
