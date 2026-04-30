@@ -102,6 +102,7 @@
 ### 14. Gestionnaire de dépendances
 
 #### -[01. Gradle](14.%20Gestionnaire%20de%20dépendances/01.%20Gradle.md)
+#### -[02. Maven](14.%20Gestionnaire%20de%20dépendances/02.%20Maven.md)
 
 ### 15. Architecture
 
