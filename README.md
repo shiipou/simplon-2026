@@ -74,7 +74,10 @@
 #### -[06. Sécurité-serveur](11.%20Veille%20techno/06.%20Sécurité-serveur.md)
 #### -[07. Presentation du langage Rust](11.%20Veille%20techno/07.%20Rust/07.%20Presentation%20du%20langage%20Rust.md)
 #### -[08. Le DevOps](11.%20Veille%20techno/08.%20Le%20DevOps/Le%20DevOps.md)
+#### -[09. EDA & Kafka](11.%20Veille%20techno/09.%20EDA%20&%20Kafka/Veille%20EDA%20&%20Kafka.md)
 #### -[10. Anthropic fuite](11.%20Veille%20techno/10.%20Anthropic%20fuite.md)
+
+#### -[12. Impact de l'IA](11.%20Veille%20techno/12.%20Impact%20de%20l%E2%80%99IA/12.%20Impact%20de%20l%E2%80%99IA.md)
 
 ### 12. Java
 
@@ -89,13 +92,17 @@
 #### -[09. Créer et structurer une class en java](12.%20Java/09.%20Créer%20et%20structurer%20une%20class%20en%20java)
 #### -[10. Héritage et Polymorphisme](12.%20Java/10.%20Héritage%20et%20Polymorphisme.md)
 #### -[14. Stream](12.%20Java/14.%20Stream.md)
-
-#### -[[17. Servlet & JSP]]
+#### - [17. Servlet & JSP]()
 ### 13. UML
 
+#### -[01. Les différents outils pour créer des diagrammes](13.%20UML/01.%20Les%20différents%20outils%20pour%20créer%20des%20diagrammes.md)
 #### -[02. Diagramme de cas d'utilisation](13.%20UML/02.%20Diagramme%20de%20cas%20d'utilisation.md)
 #### -[03. Diagramme d'activités](13.%20UML/03.%20Diagramme%20d'activités.md)
 #### -[04. diagramme de classe](13.%20UML/04.%20Diagramme%20de%20classe.md)
+
+### 14. Gestionnaire de dépendances
+
+#### -[01. Gradle](14.%20Gestionnaire%20de%20dépendances/01.%20Gradle.md)
 
 ### 15. Architecture
 
