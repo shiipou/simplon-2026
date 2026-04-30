@@ -76,6 +76,8 @@
 #### -[08. Le DevOps](11.%20Veille%20techno/08.%20Le%20DevOps/Le%20DevOps.md)
 #### -[10. Anthropic fuite](11.%20Veille%20techno/10.%20Anthropic%20fuite.md)
 
+#### -[12. Impact de l'IA](11.%20Veille%20techno/12.%20Impact%20de%20l%E2%80%99IA/12.%20Impact%20de%20l%E2%80%99IA.md)
+
 ### 12. Java
 
 #### -[01. Architecture de Java](12.%20Java/01.%20Architecture%20de%20Java.md)
