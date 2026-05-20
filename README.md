@@ -99,6 +99,7 @@
 #### -[01. Les différents outils pour créer des diagrammes](13.%20UML/01.%20Les%20différents%20outils%20pour%20créer%20des%20diagrammes.md)
 #### -[02. Diagramme de cas d'utilisation](13.%20UML/02.%20Diagramme%20de%20cas%20d'utilisation.md)
 #### -[03. Diagramme d'activités](13.%20UML/03.%20Diagramme%20d'activités.md)
+#### -[04. diagramme de classe](13.%20UML/04.%20Diagramme%20de%20classe.md)
 
 ### 14. Gestionnaire de dépendances
 
